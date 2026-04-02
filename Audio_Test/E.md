@@ -85,19 +85,43 @@ Hallo! Ich bin Lea. Ich komme aus Split. Ich lerne Deutsch. Bojan kommt aus Warn
 
 # 3. Schreiben
 
-> Füllen Sie das Gespräch aus.
+> Sehen Sie das Bild. Füllen Sie dann das Gespräch aus.
+
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="360" viewBox="0 0 950 360">
+  <rect width="950" height="360" fill="#eef6ff"/>
+  <rect x="30" y="25" width="890" height="310" rx="22" fill="#ffffff" stroke="#cfe3ff" stroke-width="3"/>
+
+  <circle cx="170" cy="120" r="38" fill="#d9ecff"/>
+  <rect x="130" y="160" width="80" height="55" rx="16" fill="#d9ecff"/>
+
+  <circle cx="770" cy="120" r="38" fill="#ffe6c7"/>
+  <rect x="730" y="160" width="80" height="55" rx="16" fill="#ffe6c7"/>
+
+  <rect x="235" y="55" width="210" height="54" rx="18" fill="#e8f4ff"/>
+  <text x="205" y="88" font-size="22" font-family="Arial" fill="#0b2a66">A: Hallo! Ich heiße Omar.</text>
+
+  <rect x="495" y="55" width="220" height="54" rx="18" fill="#fff3e6"/>
+  <text x="515" y="88" font-size="18" font-family="Arial" fill="#8a4d00">B: Hallo! Ich heiße Sara.</text>
+
+  <rect x="180" y="240" width="250" height="42" rx="12" fill="#eefbea"/>
+  <text x="200" y="267" font-size="22" font-family="Arial" fill="#1f6b2d">Omar: aus Ägypten</text>
+
+  <rect x="500" y="240" width="220" height="42" rx="12" fill="#eefbea"/>
+  <text x="520" y="267" font-size="22" font-family="Arial" fill="#1f6b2d">Sara: aus Spanien</text>
+
+  <text x="45" y="315" font-size="18" font-family="Arial" fill="#5b6780">Hinweis: Schreiben Sie ein kurzes Gespräch.</text>
+</svg>
+
+  ### Füllen Sie aus:
 
 A: Hallo!  
-
 B: [[Hallo!]]
 
 A: Wie heißt du?  
-
-B: [[Ich heiße ]]
+B: [[Ich heiße Sara]].
 
 A: Woher kommst du?  
-
-B: [[Ich komme aus]]
+B: [[Ich komme aus Spanien]].
 
 # 🤖 My Bot
 
