@@ -75,13 +75,32 @@ Piotr und Stefan kommen aus Berlin. Sie studieren in Kapstadt.
 
 # 3. Schreiben
 
-> Füllen Sie die Sätze aus.
+> Sehen Sie das Bild. Füllen Sie dann die Sätze aus.
 
-1. Das sind [[...]] und [[...]].  
-2. Sie kommen aus [[...]].  
-3. Sie wohnen in [[...]].  
-4. Sie studieren [[...]].  
-5. Sie sprechen [[...]].
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+  <rect width="900" height="320" fill="#eef6ff"/>
+  <rect x="30" y="30" width="840" height="260" rx="22" fill="#ffffff" stroke="#cfe3ff" stroke-width="3"/>
+
+  <circle cx="140" cy="120" r="42" fill="#d9ecff"/>
+  <rect x="95" y="168" width="90" height="52" rx="18" fill="#d9ecff"/>
+
+  <rect x="250" y="55" width="560" height="42" rx="12" fill="#e8f4ff"/>
+  <text x="275" y="82" font-size="22" font-family="Arial" fill="#0b2a66">👤 Name: Amina</text>
+
+  <rect x="250" y="115" width="560" height="42" rx="12" fill="#eefbea"/>
+  <text x="275" y="142" font-size="22" font-family="Arial" fill="#1f6b2d">🌍 Land: Pakistan</text>
+
+  <rect x="250" y="175" width="560" height="42" rx="12" fill="#fff7e8"/>
+  <text x="275" y="202" font-size="22" font-family="Arial" fill="#9a5b00">🗣 Sprache: Urdu und Deutsch</text>
+
+  <text x="45" y="280" font-size="18" font-family="Arial" fill="#5b6780">Hinweis: Schreiben Sie 3 einfache Sätze.</text>
+</svg>
+
+  ## Füllen Sie aus:
+
+1. [[ Ich heiße ]] Amina.  
+2. [[ Ich komme aus ]] Pakistan.  
+3. [[ Ich spreche ]] Urdu und Deutsch.
 
 # 🤖 My Bot
 
