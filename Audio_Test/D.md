@@ -41,6 +41,9 @@ font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
 
 # 1. Hören
 
+>Hören Sie die Zahlen aufmerksam. Füllen Sie die Lücken aus. Zuerst hören Sie 9 Ziffern, danach 11 Ziffern.
+
+
 ?[](https://github.com/Masub27/A1-German-Tool/blob/main/Audio_Test/VD.mp3?raw=true)
 
 1. [[082481999]]  
