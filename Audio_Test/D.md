@@ -66,13 +66,32 @@ Das ist Timo Schmidt. Er kommt aus Tübingen. Er wohnt in Brasilien. Er spricht 
 
 # 3. Schreiben
 
-> Füllen Sie die Sätze aus.
+> Sehen Sie das Bild. Füllen Sie dann die formelle Vorstellung aus.
+
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360">
+  <rect width="960" height="360" fill="#eef6ff"/>
+  <rect x="30" y="25" width="900" height="310" rx="22" fill="#ffffff" stroke="#cfe3ff" stroke-width="3"/>
+
+  
+
+  <rect x="345" y="60" width="500" height="50" rx="12" fill="#e8f4ff"/>
+  <text x="370" y="92" font-size="23" font-family="Arial" fill="#0b2a66">👤 First Name: Daniel</text>
+
+  <rect x="345" y="125" width="500" height="50" rx="12" fill="#eefbea"/>
+  <text x="370" y="157" font-size="23" font-family="Arial" fill="#1f6b2d">👤 Family Name : Weber</text>
+
+  <rect x="345" y="190" width="500" height="50" rx="12" fill="#fff7e8"/>
+  <text x="370" y="222" font-size="23" font-family="Arial" fill="#9a5b00">🌍 Country: Österreich</text>
+
+  <text x="45" y="315" font-size="18" font-family="Arial" fill="#5b6780">Hinweis: Schreiben Sie formell.</text>
+</svg>
+ ### Füllen Sie aus:
 
 1. Guten Tag.  
-2. Ich heiße [[Masub]].  
-3. Mein Vorname ist [[Masub]].  
-4. Mein Familienname ist [Makhdoom]].  
-5. Ich komme aus [[Pakistan]].
+2. Ich heiße [[Daniel Weber]].  
+3. [[ Mein Vorname ]] ist Daniel.  
+4. [[ Mein Familienname ]] ist Weber.  
+5. Ich komme aus [[Österreich]].
 
 # 🤖 My Bot
 
