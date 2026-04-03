@@ -77,30 +77,41 @@ Piotr und Stefan kommen aus Berlin. Sie studieren in Kapstadt.
 
 > Sehen Sie das Bild. Füllen Sie dann die Sätze aus.
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
-  <rect width="900" height="320" fill="#eef6ff"/>
-  <rect x="30" y="30" width="840" height="260" rx="22" fill="#ffffff" stroke="#cfe3ff" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="380" viewBox="0 0 980 380">
+  <rect width="980" height="380" fill="#eef6ff"/>
+  <rect x="30" y="25" width="920" height="330" rx="22" fill="#ffffff" stroke="#cfe3ff" stroke-width="3"/>
 
-  <circle cx="140" cy="120" r="42" fill="#d9ecff"/>
-  <rect x="95" y="168" width="90" height="52" rx="18" fill="#d9ecff"/>
+  <circle cx="130" cy="115" r="34" fill="#d9ecff"/>
+  <rect x="95" y="150" width="70" height="50" rx="15" fill="#d9ecff"/>
+  <text x="103" y="230" font-size="20" font-family="Arial" fill="#0b2a66">Lina</text>
 
-  <rect x="250" y="55" width="560" height="42" rx="12" fill="#e8f4ff"/>
-  <text x="275" y="82" font-size="22" font-family="Arial" fill="#0b2a66">👤 Name: Amina</text>
+  <circle cx="230" cy="115" r="34" fill="#ffe6c7"/>
+  <rect x="195" y="150" width="70" height="50" rx="15" fill="#ffe6c7"/>
+  <text x="203" y="230" font-size="20" font-family="Arial" fill="#8a4d00">Noah</text>
 
-  <rect x="250" y="115" width="560" height="42" rx="12" fill="#eefbea"/>
-  <text x="275" y="142" font-size="22" font-family="Arial" fill="#1f6b2d">🌍 Land: Pakistan</text>
+  <rect x="320" y="55" width="540" height="45" rx="12" fill="#e8f4ff"/>
+  <text x="345" y="84" font-size="22" font-family="Arial" fill="#0b2a66">👥 Personen: Lina und Noah</text>
 
-  <rect x="250" y="175" width="560" height="42" rx="12" fill="#fff7e8"/>
-  <text x="275" y="202" font-size="22" font-family="Arial" fill="#9a5b00">🗣 Sprache: Urdu und Deutsch</text>
+  <rect x="320" y="115" width="540" height="45" rx="12" fill="#eefbea"/>
+  <text x="345" y="144" font-size="22" font-family="Arial" fill="#1f6b2d">🌍 Country: Deutschland</text>
 
-  <text x="45" y="280" font-size="18" font-family="Arial" fill="#5b6780">Hinweis: Schreiben Sie 3 einfache Sätze.</text>
+  <rect x="320" y="175" width="540" height="45" rx="12" fill="#fff7e8"/>
+  <text x="345" y="204" font-size="22" font-family="Arial" fill="#9a5b00">🏠 Wohnort: Hamburg</text>
+
+  <rect x="320" y="235" width="540" height="45" rx="12" fill="#f3edff"/>
+  <text x="345" y="264" font-size="22" font-family="Arial" fill="#5b3ea6">🎓 Student : Informatik</text>
+
+  <rect x="320" y="295" width="540" height="45" rx="12" fill="#e8fbf7"/>
+  <text x="345" y="324" font-size="22" font-family="Arial" fill="#146b57">🗣 Language : Deutsch und Englisch</text>
 </svg>
 
-  ## Füllen Sie aus:
+  ### Füllen Sie aus:
 
-1. [[ Ich heiße ]] Amina.  
-2. [[ Ich komme aus ]] Pakistan.  
-3. [[ Ich spreche ]] Urdu und Deutsch.
+1. Das sind [[Lina]] und [[Noah]].  
+2. Sie kommen aus [[Deutschland]].  
+3. [[ Sie wohnen in ]] Hamburg.  
+4. [[ Sie studieren ]] Informatik.  
+5. [[ Sie sprechen ]] Deutsch und Englisch.
 
 # 🤖 My Bot
 
