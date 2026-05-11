@@ -184,7 +184,7 @@ body{
 
 # Kapitel 1
 
- ## Chapter 2
+ 
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
   <defs>
