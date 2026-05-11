@@ -591,9 +591,9 @@ Show Example Questions
 
 ?[](https://github.com/Masub27/Thesis-collection/blob/main/KursDaF_A1_KB_Track_003.mp3?raw=true)
 
-1)Nelson [[M]][[u]][[l]][[l]][[e]][[r]]
+1)Nelson [[M]][[ü]][[l]][[l]][[e]][[r]]
 
-2)Christen [[s]][[e]][[i]][[d]][[e]][[l]]
+2)Christen [[S]][[e]][[i]][[d]][[e]][[l]]
 
  ## Horen und Schreiben Sie die Telefonnummern.
 
