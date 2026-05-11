@@ -330,7 +330,7 @@ Show Example Questions
     },
     {
       keys: ["name", "wie heißt du", "wie heißen sie"],
-      answer: "Informal: Wie heißt du? Formal: Wie heißen Sie? Answer: Ich heiße Sarah. Or: Ich bin Dana Pak."
+      answer: "Informal: Wie heißt du? ( Ich bin Dana Pak.) Formal: Wie heißen Sie? ( Ich heiße Sarah. )
     },
     {
       keys: ["du", "sie", "formal", "informal", "difference"],
