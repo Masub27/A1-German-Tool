@@ -33,6 +33,199 @@ link:     https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyph
 font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
 
 -->
+# Research Notice
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#d7e06a"/>
+  <stop offset="100%" stop-color="#c8d653"/>
+</linearGradient>
+
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="rgba(255,255,255,0.72)"/>
+  <stop offset="100%" stop-color="rgba(255,255,255,0.38)"/>
+</linearGradient>
+
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+  <feDropShadow dx="0" dy="12" stdDeviation="18"
+                flood-color="#7f8d2d"
+                flood-opacity="0.22"/>
+</filter>
+
+<filter id="blur">
+  <feGaussianBlur stdDeviation="1.2"/>
+</filter>
+
+<style><![CDATA[
+
+.bigWatermark{
+  font-family:Arial,sans-serif;
+  font-size:190px;
+  font-weight:700;
+  fill:#ffffff;
+  opacity:0.22;
+}
+
+.midWatermark{
+  font-family:Arial,sans-serif;
+  font-size:72px;
+  font-weight:700;
+  fill:#ffffff;
+  opacity:0.24;
+}
+
+.noticeTitle{
+  font-family:Georgia,serif;
+  font-size:60px;
+  font-weight:700;
+  fill:#9e1111;
+}
+
+.noticeText{
+  font-family:Arial,sans-serif;
+  font-size:34px;
+  font-weight:600;
+  fill:#222;
+}
+
+.footer{
+  font-family:Arial,sans-serif;
+  font-size:22px;
+  fill:#555;
+}
+
+]]></style>
+
+</defs>
+
+<!-- Background -->
+<rect width="1600" height="900" fill="url(#bg)"/>
+
+<!-- Watermark -->
+<g transform="rotate(-28 800 450)" filter="url(#blur)">
+
+  <text x="120" y="470" class="bigWatermark">
+    Kurs DaF
+  </text>
+
+  <text x="980" y="470"
+        style="font-family:Arial,sans-serif;
+               font-size:90px;
+               font-weight:700;
+               fill:white;
+               opacity:0.22;">
+    A1
+  </text>
+
+  <text x="320" y="590" class="midWatermark">
+    Deutsch für Studium und Beruf
+  </text>
+
+  <text x="250" y="680" class="midWatermark">
+    Kurs- und Übungsbuch mit Audios und Videos
+  </text>
+
+</g>
+
+<!-- Watermark Device Icon -->
+<g opacity="0.18" transform="translate(1180 520) scale(1.3)">
+
+  <rect x="0" y="0" width="260" height="200"
+        rx="20"
+        fill="#ffffff"/>
+
+  <path d="M70 60 L130 30 L190 60 L130 90 Z"
+        fill="none"
+        stroke="#222"
+        stroke-width="8"/>
+
+  <rect x="55" y="110" width="55" height="70"
+        rx="8"
+        fill="none"
+        stroke="#222"
+        stroke-width="7"/>
+
+  <rect x="150" y="110" width="55" height="70"
+        rx="8"
+        fill="none"
+        stroke="#222"
+        stroke-width="7"/>
+
+  <line x1="110" y1="145"
+        x2="150" y2="145"
+        stroke="#222"
+        stroke-width="7"/>
+
+</g>
+
+<!-- Glass Card -->
+<g filter="url(#shadow)">
+
+  <rect x="150" y="110"
+        width="1300"
+        height="270"
+        rx="34"
+        fill="white"
+        opacity="0.30"
+        stroke="white"
+        stroke-width="2"/>
+
+  <!-- Glass Highlight -->
+  <rect x="170" y="130"
+        width="1260"
+        height="90"
+        rx="24"
+        fill="white"
+        opacity="0.18"/>
+
+</g>
+
+<!-- Notice Text -->
+<text x="800"
+      y="205"
+      text-anchor="middle"
+      class="noticeTitle">
+  This is only for research purposes
+</text>
+
+<text x="800"
+      y="280"
+      text-anchor="middle"
+      class="noticeTitle">
+  not for publication.
+</text>
+
+<line x1="330" y1="325"
+      x2="1270" y2="325"
+      stroke="#caa5a5"
+      stroke-width="3"/>
+
+<!-- Footer Glass -->
+<g filter="url(#shadow)">
+
+  <rect x="390" y="735"
+        width="820"
+        height="72"
+        rx="22"
+        fill="white"
+        opacity="0.28"
+        stroke="white"
+        stroke-width="1.5"/>
+
+</g>
+
+<text x="800"
+      y="780"
+      text-anchor="middle"
+      class="footer">
+  German A1.1 Learning Material • LiaScript Research Project
+</text>
+
+</svg>
+
 # Übungsbuchteil
 
     --{{0}}--
