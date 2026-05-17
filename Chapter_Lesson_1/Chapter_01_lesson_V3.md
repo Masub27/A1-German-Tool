@@ -1152,7 +1152,7 @@ aus der Schweiz, aus der [[Türkei]], aus den [[Niederlanden]], aus den [[USA]],
 
 **1. Wer spricht Englisch?**
 
-[[X]] a. Nicole  
+[[ ]] a. Nicole  
 [[X]] b. Eivor + Fynn  
 [[X]] c. Gabriel  
 
