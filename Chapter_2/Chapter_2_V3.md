@@ -666,7 +666,7 @@ Sie heißt Frau Hansen.
 
 • Sind das  Lehrerinnen?  
 
-○ Nein, das sind [[keine]] Lehrerinnen, das sind  Studentinnen[[Die]] Studentinnen sind neu an der Uni.
+○ Nein, das sind [[keine]] Lehrerinnen, das sind  Studentinnen.[[Die]] Studentinnen sind neu an der Uni.
 
 </div>
 
