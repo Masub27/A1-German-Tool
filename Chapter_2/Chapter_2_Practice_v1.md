@@ -1,6 +1,6 @@
 <!--
 
-author:   Masub Makhdoom
+author:   Kanwal & Makhdoom
 email:    masub.makhdoom@ovgu.de
 date:     27/01/2026
 version:  30.0.0
