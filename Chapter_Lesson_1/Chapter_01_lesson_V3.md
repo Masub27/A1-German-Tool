@@ -1741,7 +1741,7 @@ Ergänzen Sie die Tabelle mit den Informationen aus 1a.
 
 | Position 1 | Position 2 | Ergänzung |
 |---|---|---|
-| Woher | [[kommst]] | Dana? |
+| Woher | [[kommt]] | Dana? |
 | Was | [[studiert]] | Dana? |
 | [[Studierst]] | du | auch Biologie? |
 | [[Kommt]] | ihr | morgen zur Party? |
