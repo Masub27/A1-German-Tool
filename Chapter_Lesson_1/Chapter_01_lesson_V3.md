@@ -466,13 +466,15 @@ body{
 
 !?[](https://github.com/Masub27/A1-German-Tool/blob/main/Chapter_Lesson_1/Avatar_1_%E2%80%94_Welcome_%2B_Lesson_Overview.mp4?raw=true)
 
-# 🤖 A1.1 German Lesson Chatbot
+# 🤖 A1.1 Deutsch Lern-Bot
 
 <div style="background:linear-gradient(135deg,#eef7f0,#ffffff);border:3px solid #9fb522;border-radius:22px;padding:25px;box-shadow:0 8px 22px rgba(0,0,0,.12);">
 
 <div style="font-size:30px;font-weight:800;color:#2f3b1f;margin-bottom:10px;">
-🤖 A1.1 Deutsch Lern-Bot
+
+ 🤖 A1.1 Deutsch Lern-Bot
 </div>
+
 
 <p style="font-size:17px;color:#333;">
 Ask me questions about this German A1.1 lesson.
@@ -482,14 +484,12 @@ Ask me questions about this German A1.1 lesson.
        placeholder="Example: What is the difference between du and Sie?"
        style="width:100%;padding:14px;border:2px solid #9fb522;border-radius:12px;font-size:16px;">
 
-<button id="a1AskButton"
-        type="button"
+<button id="a1AskButton" type="button"
         style="margin-top:12px;background:#9fb522;color:white;border:none;padding:12px 22px;border-radius:12px;font-size:16px;font-weight:bold;cursor:pointer;">
 Ask Bot
 </button>
 
-<button id="a1ExampleButton"
-        type="button"
+<button id="a1ExampleButton" type="button"
         style="margin-top:12px;background:#527d9b;color:white;border:none;padding:12px 22px;border-radius:12px;font-size:16px;font-weight:bold;cursor:pointer;">
 Show Example Questions
 </button>
@@ -521,8 +521,8 @@ Show Example Questions
       answer: "German greetings are: Hallo, Guten Morgen, Guten Tag and Guten Abend. Goodbye can be Tschüss or Auf Wiedersehen."
     },
     {
-      keys: ["name", "wie heißt du", "wie heißen sie"],
-      answer: "Informal: Wie heißt du? ( Ich bin Dana Pak.) Formal: Wie heißen Sie? ( Ich heiße Sarah. )
+      keys: ["name", "wie heißt du", "wie heissen sie", "wie heißen sie"],
+      answer: "Informal: Wie heißt du? Answer: Ich bin Dana Pak. Formal: Wie heißen Sie? Answer: Ich heiße Sarah."
     },
     {
       keys: ["du", "sie", "formal", "informal", "difference"],
@@ -553,7 +553,7 @@ Show Example Questions
       answer: "Sprechen changes in du and er/sie/es: ich spreche, du sprichst, er spricht, wir sprechen, ihr sprecht, sie sprechen."
     },
     {
-      keys: ["ich bin", "ich or ich bin"],
+      keys: ["ich bin", "ich"],
       answer: "Use Ich with another verb: Ich komme aus Madrid. Ich heiße Sarah. Use Ich bin for I am: Ich bin Sarah. Ich bin Student."
     },
     {
@@ -598,29 +598,29 @@ Show Example Questions
     const input = document.getElementById("a1ChatInput");
     const output = document.getElementById("a1ChatAnswer");
 
-    if (!input || !output) return "done";
+    if (!input || !output) return;
 
     const q = normalize(input.value);
 
     if (!q) {
       output.innerHTML = "Please type a question. Example: <b>What is the difference between du and Sie?</b>";
-      return "done";
+      return;
     }
 
     let bestAnswer = "";
     let bestScore = 0;
 
-    qa.forEach(item => {
+    qa.forEach(function(item) {
       let score = 0;
 
-      item.keys.forEach(key => {
+      item.keys.forEach(function(key) {
         const k = normalize(key);
 
         if (q.includes(k)) {
           score += 10;
         }
 
-        k.split(" ").forEach(word => {
+        k.split(" ").forEach(function(word) {
           if (word.length > 3 && q.includes(word)) {
             score += 2;
           }
@@ -642,26 +642,22 @@ Show Example Questions
       output.innerHTML =
         "I am not sure. Ask about alphabet, numbers, greetings, du/Sie, W-Fragen, verbs, word order, phone numbers, e-mail, or introduction.";
     }
-
-    return "done";
   }
 
   function showExamples() {
     const output = document.getElementById("a1ChatAnswer");
-    if (!output) return "done";
+    if (!output) return;
 
     output.innerHTML =
       "<b>Example questions:</b><br>" +
       "1. What is the difference between du and Sie?<br>" +
       "2. How do I ask name in German?<br>" +
       "3. What means Woher kommst du?<br>" +
-      "4. What is Familienname?<br>" +
-      "5. How do I conjugate kommen?<br>" +
-      "6. What is sein?<br>" +
-      "7. How do I ask phone number?<br>" +
-      "8. How do I introduce myself?";
-
-    return "done";
+      "4. How do I conjugate kommen?<br>" +
+      "5. What is sein?<br>" +
+      "6. How do I ask phone number?<br>" +
+      "7. How do I introduce myself?<br>" +
+      "8. What are German numbers 1 to 10?";
   }
 
   function connectBot() {
@@ -670,7 +666,7 @@ Show Example Questions
     const input = document.getElementById("a1ChatInput");
 
     if (askButton) {
-      askButton.onclick = function (event) {
+      askButton.onclick = function(event) {
         event.preventDefault();
         askBot();
         return false;
@@ -678,7 +674,7 @@ Show Example Questions
     }
 
     if (exampleButton) {
-      exampleButton.onclick = function (event) {
+      exampleButton.onclick = function(event) {
         event.preventDefault();
         showExamples();
         return false;
@@ -686,7 +682,7 @@ Show Example Questions
     }
 
     if (input) {
-      input.onkeydown = function (event) {
+      input.onkeydown = function(event) {
         if (event.key === "Enter") {
           event.preventDefault();
           askBot();
@@ -694,8 +690,6 @@ Show Example Questions
         }
       };
     }
-
-    return "done";
   }
 
   setTimeout(connectBot, 300);
