@@ -33,7 +33,7 @@ link:     https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyph
 font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
 
 -->
-# 🎓 A1 Test – VERY DIFFICULT (Kapitel 1)
+# 🎓 A1.1 Test – VERY DIFFICULT (Kapitel 1)
 
 # 👂 Hören
 
@@ -175,7 +175,7 @@ Try to use:
 
 ---
 
-# ✅ Lösungen – A1 Test VERY DIFFICULT (Kapitel 1)
+# ✅ Lösungen – A1.1 Test VERY DIFFICULT (Kapitel 1)
 
 # 👂 Hören – Lösungen
 
