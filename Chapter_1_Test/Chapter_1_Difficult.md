@@ -38,7 +38,7 @@ font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
 
 # 👂 Hören
 
- ## 🎧 Teil 4
+ ## 🎧 Teil 1
 
 <details style="background:#fff4fb;border:1px solid #efcad8;border-radius:14px;padding:14px;margin-bottom:18px;">
 <summary><b>💡 Hint</b></summary>
@@ -214,7 +214,7 @@ Use polite German.
 
 ---
 
-# ✅ Lösungen – A1 Test DIFFICULT (Kapitel 1)
+# ✅ Lösungen – A1.1 Test DIFFICULT (Kapitel 1)
 
 # 👂 Hören – Lösungen
 
