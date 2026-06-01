@@ -1,7 +1,7 @@
 <!--
 
 author:   Kanwal & Makhdoom
-email:    masub.makhdoom@ovgu.de
+email:    masub.makhdoom@ovgu.de / mahwish.kanwal@ovgu.de
 date:     09/04/2026
 version:  30.0.0
 language: en
@@ -796,24 +796,24 @@ Show Example Questions
 <summary><b>💡 Hint for “Hören Sie und schreiben Sie die Namen”</b></summary>
 
 In this listening exercise, you hear:
-👂 first names and family names in German.
+👂 First names and family names in German.
 
 Your task:
-✅ listen carefully  
-✅ write the correct letters  
-✅ pay attention to German pronunciation
+✅ Listen carefully  
+✅ Write the correct letters  
+✅ Pay attention to German pronunciation
 
 ---
 
 ## Helpful strategy
 
 German names are often spelled:
-🔤 letter by letter.
+🔤 Letter by letter.
 
 Listen carefully to:
-- vowels
-- umlauts
-- double consonants
+- Vowels
+- Umlauts
+- Double consonants
 
 ---
 
@@ -829,9 +829,9 @@ Listen carefully to:
 ## Helpful listening tips
 
 Focus on:
-✅ the first letter  
-✅ double letters  
-✅ endings like:
+✅ The first letter  
+✅ Double letters  
+✅ Endings like:
 - er
 - el
 - en
@@ -1038,12 +1038,12 @@ Hören Sie die Gespräche 1 und 2 noch einmal und lesen Sie mit. Ergänzen Sie i
 <summary><b>💡 Hint for 1a</b></summary>
 
 In this listening exercise, you hear:
-🎧 two short conversations in a German course.
+🎧 Two short conversations in a German course.
 
 Your task:
-✅ listen carefully  
-✅ understand the situation  
-✅ match the correct conversation with the correct photo
+✅ Listen carefully  
+✅ Understand the situation  
+✅ Match the correct conversation with the correct photo
 
 ---
 
@@ -1065,8 +1065,8 @@ You hear:
 - “Woher kommst du?”
 
 This is:
-✅ informal language  
-✅ student to student
+✅ Informal language  
+✅ Student to student
 
 Look for:
 👩‍🎓 classmates / course participants
@@ -1080,11 +1080,11 @@ You hear:
 - “Wie ist Ihr Familienname?”
 
 This is:
-✅ formal language  
-✅ teacher and student
+✅ Formal language  
+✅ Teacher and student
 
 Look for:
-👩‍🏫 classroom / teacher situation
+👩‍🏫 Classroom / teacher situation
 
 ---
 
@@ -1101,9 +1101,9 @@ Look for:
 
 Do NOT only listen to single words.
 Listen to:
-✅ the situation  
-✅ the relationship between speakers  
-✅ formal vs informal speech
+✅ The situation  
+✅ The relationship between speakers  
+✅ Formal vs informal speech
 
 </details>
 
@@ -1113,13 +1113,13 @@ Listen to:
 <summary><b>💡 Hint for 1b</b></summary>
 
 In this exercise, you:
-🎧 listen and read the dialogues  
-✍️ complete the family name and spelling
+🎧 Listen and read the dialogues  
+✍️ Complete the family name and spelling
 
 Your task:
-✅ understand introductions  
-✅ identify first name and family name  
-✅ listen to spelling carefully
+✅ Understand introductions  
+✅ Identify first name and family name  
+✅ Listen to spelling carefully
 
 ---
 
@@ -1141,7 +1141,7 @@ Your task:
 - Woher kommst du?
 
 Used with:
-👫 friends / classmates
+👫 Friends / classmates
 
 ---
 
@@ -1151,7 +1151,7 @@ Used with:
 - Woher kommen Sie?
 
 Used with:
-👩‍🏫 teachers / official situations
+👩‍🏫 Teachers / official situations
 
 ---
 
@@ -1170,9 +1170,9 @@ Example:
 ## Helpful tip
 
 Pay attention to:
-✅ capital letters in names  
-✅ pronunciation of letters  
-✅ repeated letters
+✅ Capital letters in names  
+✅ Pronunciation of letters  
+✅ Repeated letters
 
 ---
 
@@ -1184,9 +1184,9 @@ Read the dialogue aloud:
 🗣️ Mein Familienname ist Girard.
 
 This improves:
-✅ pronunciation  
-✅ fluency  
-✅ listening comprehension
+✅ Pronunciation  
+✅ Fluency  
+✅ Listening comprehension
 
 </details>
 
@@ -1247,9 +1247,9 @@ In this listening exercise, you focus on:
 👥 informal and formal forms
 
 Your task:
-✅ listen carefully  
-✅ complete the missing words  
-✅ identify:
+✅ Listen carefully  
+✅ Complete the missing words  
+✅ Identify:
 - du form
 - Sie form
 
@@ -1325,8 +1325,8 @@ In this exercise, you compare:
 👩‍🏫 formal language
 
 Your task:
-✅ identify the correct form of address  
-✅ choose:
+✅ Identify the correct form of address  
+✅ Choose:
 - du
 or
 - Sie
@@ -1349,7 +1349,7 @@ Examples:
 - Wie heißt du?
 
 Usually:
-✅ first name only
+✅ First name only
 
 ---
 
@@ -1359,10 +1359,10 @@ Use:
 👉 <b>Sie</b>
 
 with:
-- teachers
-- professors
-- strangers
-- official situations
+- Teachers
+- Professors
+- Strangers
+- Official situations
 
 Examples:
 - Guten Tag, Frau Girard.
@@ -1398,8 +1398,8 @@ Ask yourself:
 ## Important tip
 
 In German:
-✅ first names often = informal  
-✅ family names with Frau/Herr = formal
+✅ First names often = informal  
+✅ Family names with Frau/Herr = formal
 
 </details>
 
@@ -1521,9 +1521,9 @@ In this grammar exercise, you practice:
 💬 answers in German
 
 Your task:
-✅ complete the questions  
-✅ complete the answers  
-✅ choose the correct verb forms
+✅ Complete the questions  
+✅ Complete the answers  
+✅ Choose the correct verb forms
 
 ---
 
@@ -1563,7 +1563,7 @@ Your task:
 ### Verb position
 
 In German questions:
-✅ the verb comes in position 2.
+✅ The verb comes in position 2.
 
 Examples:
 - Wie heißen Sie?
@@ -1608,11 +1608,11 @@ because the verb changes:
 
 In this matching exercise, you connect:
 ❓ questions  
-✅ correct answers
+✅ Correct answers
 
 Your task:
-✅ understand the meaning of each question  
-✅ choose the matching answer
+✅ Understand the meaning of each question  
+✅ Choose the matching answer
 
 ---
 
@@ -1699,9 +1699,9 @@ Read the pairs aloud:
 🗣️ Aus Nancy.
 
 This improves:
-✅ speaking  
-✅ listening  
-✅ grammar understanding
+✅ Speaking  
+✅ Listening  
+✅ Grammar understanding
 
 </details>
 
@@ -1851,9 +1851,9 @@ In this listening and vocabulary exercise, you learn:
 🌍 countries and origin in German.
 
 Your task:
-✅ listen carefully  
-✅ identify the country  
-✅ complete the sentence with:
+✅ Listen carefully  
+✅ Identify the country  
+✅ Complete the sentence with:
 👉 aus + country
 
 ---
@@ -1941,8 +1941,8 @@ In this exercise, you match:
 🌍 their countries
 
 Your task:
-✅ read the names  
-✅ choose the correct country expression
+✅ Read the names  
+✅ Choose the correct country expression
 
 ---
 
@@ -2305,10 +2305,10 @@ In this reading exercise, you read short portraits and interviews about three pe
 👨 Gabriel
 
 Your task:
-✅ read the texts carefully  
-✅ find who speaks which language  
-✅ find who studies or works  
-✅ sometimes choose two correct answers
+✅ Read the texts carefully  
+✅ Find who speaks which language  
+✅ Find who studies or works  
+✅ Sometimes choose two correct answers
 
 ---
 
@@ -2339,9 +2339,9 @@ Look for these keywords:
 ## Important detail
 
 Sometimes a person:
-✅ speaks a language  
+✅ Speaks a language  
 or  
-✅ learns a language
+✅ Learns a language
 
 These are not exactly the same.
 
@@ -2376,11 +2376,11 @@ Answer: Gabriel.
 In this table exercise, you collect central information from the portraits.
 
 Your task:
-✅ find country  
-✅ find city  
-✅ find study subject  
-✅ find profession  
-✅ find languages
+✅ Find country  
+✅ Find city  
+✅ Find study subject  
+✅ Find profession  
+✅ Find languages
 
 ---
 
@@ -2528,9 +2528,9 @@ In this grammar exercise, you learn:
 🧩 German verbs in the Präsens (present tense).
 
 Your task:
-✅ recognize verb endings  
-✅ complete the conjugation table  
-✅ compare different persons:
+✅ Recognize verb endings  
+✅ Complete the conjugation table  
+✅ Compare different persons:
 - ich
 - du
 - er/sie/es
@@ -2598,8 +2598,8 @@ This verb is completely irregular.
 ## Helpful strategy
 
 Look for:
-✅ verb stem  
-✅ verb ending
+✅ Verb stem  
+✅ Verb ending
 
 Example:
 - wohn-en → wohnst
@@ -2627,9 +2627,9 @@ because pronunciation is easier.
 In this exercise, you complete sentences with the correct verb form.
 
 Your task:
-✅ identify the subject  
-✅ choose the correct verb  
-✅ conjugate the verb correctly
+✅ Identify the subject  
+✅ Choose the correct verb  
+✅ Conjugate the verb correctly
 
 ---
 
@@ -2766,7 +2766,7 @@ In this grammar exercise, you practice:
 👤 introductions in German.
 
 Your task:
-✅ choose:
+✅ Choose:
 - <b>Ich</b>
 or
 - <b>Ich bin</b>
@@ -2779,9 +2779,9 @@ or
 
 ### Use “Ich bin” with:
 
-✅ names  
-✅ professions  
-✅ nationality / origin
+✅ Names  
+✅ Professions  
+✅ Nationality / origin
 
 Examples:
 - Ich bin Sarah.
@@ -2793,7 +2793,7 @@ Examples:
 ## Use “Ich” with verbs
 
 When another verb follows:
-✅ use only “Ich”
+✅ Use only “Ich”
 
 Examples:
 - Ich komme aus Madrid.
@@ -2836,10 +2836,10 @@ Ask yourself:
 👉 Is there another verb in the sentence?
 
 YES:
-✅ use “Ich”
+✅ Use “Ich”
 
 NO:
-✅ use “Ich bin”
+✅ Use “Ich bin”
 
 ---
 
@@ -2857,9 +2857,9 @@ NO:
 ## Important writing rule
 
 📌 In German:
-✅ sentence beginnings are capitalized  
-✅ names are capitalized  
-✅ nouns are capitalized
+✅ Sentence beginnings are capitalized  
+✅ Names are capitalized  
+✅ Nouns are capitalized
 
 Examples:
 - Deutschland
@@ -2924,15 +2924,15 @@ Sie spricht [[Deutsch, Dänisch und Englisch]].
 <summary><b>💡 Hint for „Wer ist das?“</b></summary>
 
 In this writing exercise, you describe:
-👤 a person  
-🌍 their country  
-🏠 where they live  
-💼 their profession  
-🗣️ the languages they speak
+👤 A person  
+🌍 Their country  
+🏠 Where they live  
+💼 Their profession  
+🗣️ The languages they speak
 
 Your task:
-✅ write complete German sentences  
-✅ use:
+✅ Write complete German sentences  
+✅ Use:
 - er / sie
 - kommt aus
 - wohnt in
@@ -3034,7 +3034,7 @@ Write the information step by step:
 ## Important tip
 
 Remember:
-✅ nouns and languages begin with capital letters in German.
+✅ Nouns and languages begin with capital letters in German.
 
 Examples:
 - Deutsch
@@ -3204,12 +3204,12 @@ In this exercise, you practice:
 👥 formal and informal communication
 
 Your task:
-✅ listen carefully  
-✅ read the dialogues  
-✅ identify:
-- formal conversation
+✅ Listen carefully  
+✅ Read the dialogues  
+✅ Identify:
+- Formal conversation
 or
-- informal conversation
+- Informal conversation
 
 ---
 
@@ -3218,9 +3218,9 @@ or
 ### Informal conversation
 
 Used with:
-👫 friends  
-👩‍🎓 classmates  
-👨‍👩‍👧 family
+👫 Friends  
+👩‍🎓 Classmates  
+👨‍👩‍👧 Family
 
 Important words:
 - du
@@ -3237,9 +3237,9 @@ Examples:
 ### Formal conversation
 
 Used with:
-👩‍🏫 teachers  
-👨 strangers  
-🏢 official situations
+👩‍🏫 Teachers  
+👨 Strangers  
+🏢 Official situations
 
 Important words:
 - Sie
@@ -3262,9 +3262,9 @@ or
 - Sie
 
 This immediately shows:
-✅ informal
+✅ Informal
 or
-✅ formal
+✅ Formal
 
 ---
 
@@ -3283,11 +3283,11 @@ or
 ## Important tip
 
 German changes:
-✅ pronouns  
-✅ verb forms  
-✅ greetings
+✅ Pronouns  
+✅ Verb forms  
+✅ Greetings
 
-depending on the situation.
+Depending on the situation.
 
 </details>
 
@@ -3302,8 +3302,8 @@ or
 👫 informal
 
 Your task:
-✅ identify the language style  
-✅ complete the sentences correctly
+✅ Identify the language style  
+✅ Complete the sentences correctly
 
 ---
 
@@ -3320,7 +3320,7 @@ Examples:
 - Kommt ihr morgen?
 
 This is:
-✅ informal language
+✅ Informal language
 
 ---
 
@@ -3336,7 +3336,7 @@ Examples:
 - Kommen Sie morgen?
 
 This is:
-✅ formal language
+✅ Formal language
 
 ---
 
@@ -3355,7 +3355,7 @@ If you see:
 👩‍🏫 Frau / Herr + family name
 
 it is usually:
-✅ formal
+✅ Formal
 
 </details>
 
@@ -3370,19 +3370,19 @@ In this speaking exercise, you practice:
 💬 short conversations
 
 Your task:
-✅ listen carefully  
-✅ repeat the sentences  
-✅ copy the rhythm and pronunciation
+✅ Listen carefully  
+✅ Repeat the sentences  
+✅ Copy the rhythm and pronunciation
 
 ---
 
 ## Helpful speaking strategy
 
 Focus on:
-✅ pronunciation  
-✅ sentence melody  
-✅ stress  
-✅ polite expressions
+✅ Pronunciation  
+✅ Sentence melody  
+✅ Stress  
+✅ Polite expressions
 
 ---
 
@@ -3419,14 +3419,14 @@ Examples:
 ## Practice tip
 
 Repeat slowly first:
-1️⃣ read  
-2️⃣ listen  
-3️⃣ repeat aloud
+1️⃣ Read  
+2️⃣ Listen  
+3️⃣ Repeat aloud
 
 This improves:
-✅ fluency  
-✅ confidence  
-✅ pronunciation
+✅ Fluency  
+✅ Confidence  
+✅ Pronunciation
 
 </details>
 
@@ -3439,11 +3439,11 @@ In this pronunciation exercise, you learn:
 🎵 German sentence melody (intonation).
 
 Your task:
-✅ listen carefully  
-✅ decide:
-- rising melody ↗
+✅ Listen carefully  
+✅ Decide:
+- rRsing melody ↗
 or
-- falling melody ↘
+- Falling melody ↘
 
 ---
 
@@ -3452,7 +3452,7 @@ or
 ### W-questions
 
 Usually:
-↘ falling melody
+↘ Falling melody
 
 Examples:
 - Woher kommst du?
@@ -3524,8 +3524,8 @@ In this grammar and pronunciation exercise, you summarize:
 🎵 German sentence melody rules.
 
 Your task:
-✅ choose the correct melody  
-✅ complete the table
+✅ Choose the correct melody  
+✅ Complete the table
 
 ---
 
@@ -3534,7 +3534,7 @@ Your task:
 ### Aussage / Antwort
 
 Normal statements:
-✅ falling melody ↘
+✅ Falling melody ↘
 
 Examples:
 - Ich studiere Chemie.
@@ -3550,7 +3550,7 @@ Questions with:
 - Was
 
 usually:
-✅ falling melody ↘
+✅ Falling melody ↘
 
 Examples:
 - Wie geht es dir?
@@ -3566,7 +3566,7 @@ or
 - nein
 
 usually:
-✅ rising melody ↗
+✅ Rising melody ↗
 
 Examples:
 - Studierst du Biologie?
@@ -3580,10 +3580,10 @@ Ask yourself:
 👉 Can I answer with ja/nein?
 
 YES:
-✅ ↗ rising melody
+✅ ↗ Rising melody
 
 NO:
-✅ ↘ falling melody
+✅ ↘ Falling melody
 
 </details>
 
@@ -3718,9 +3718,9 @@ In this grammar exercise, you learn:
 💬 answers and statements
 
 Your task:
-✅ complete the tables  
-✅ identify the verb position  
-✅ compare question types
+✅ Complete the tables  
+✅ Identify the verb position  
+✅ Compare question types
 
 ---
 
@@ -3819,10 +3819,10 @@ In this exercise, you summarize:
 📌 important German sentence rules.
 
 Your task:
-✅ complete the grammar rules  
-✅ identify:
-- verb position
-- punctuation
+✅ Complete the grammar rules  
+✅ Identify:
+- Verb position
+- Punctuation
 
 ---
 
@@ -3888,9 +3888,9 @@ Examples:
 ## Helpful tip
 
 Always check:
-1️⃣ sentence beginning  
-2️⃣ verb position  
-3️⃣ punctuation at the end
+1️⃣ Sentence beginning  
+2️⃣ Verb position  
+3️⃣ Punctuation at the end
 
 </details>
 
@@ -3903,9 +3903,9 @@ This section gives you:
 📚 grammar structure examples.
 
 Use it as a model for:
-✅ writing questions  
-✅ writing statements  
-✅ checking verb position
+✅ Writing questions  
+✅ Writing statements  
+✅ Checking verb position
 
 ---
 
@@ -3963,7 +3963,7 @@ Ask yourself:
 ## Important tip
 
 In German:
-✅ the conjugated verb is very important.
+✅ The conjugated verb is very important.
 
 Always check:
 👀 where the verb stands in the sentence.
@@ -3979,13 +3979,13 @@ In this writing exercise, you build:
 ✍️ correct German sentences.
 
 Your task:
-✅ put the words in the correct order  
-✅ choose:
-- statement
+✅ Put the words in the correct order  
+✅ Choose:
+- Statement
 or
 - question
 
-✅ use correct punctuation
+✅ Use correct punctuation
 
 ---
 
@@ -4043,11 +4043,11 @@ Examples:
 ## Important punctuation
 
 ### Question
-➡️ use:
+➡️ Use:
 ✅ ?
 
 ### Statement
-➡️ use:
+➡️ Use:
 ✅ .
 
 ---
@@ -4058,7 +4058,7 @@ Always look for:
 👀 the verb
 
 In German:
-✅ the verb usually comes very early in the sentence.
+✅ The verb usually comes very early in the sentence.
 
 </details>
 
@@ -4224,9 +4224,9 @@ In this listening exercise, you practice:
 📞 German area codes (Vorwahl).
 
 Your task:
-✅ listen carefully  
-✅ identify the correct number  
-✅ choose:
+✅ Listen carefully  
+✅ Identify the correct number  
+✅ Choose:
 - a
 - b
 - c
@@ -4278,9 +4278,9 @@ Common mobile prefixes:
 ## Helpful tip
 
 Listen carefully to:
-✅ null (0)
-✅ neun (9)
-✅ zwei (2)
+✅ Null (0)
+✅ Neun (9)
+✅ Zwei (2)
 
 Some numbers sound similar.
 
@@ -4311,9 +4311,9 @@ In this exercise, you practice:
 📧 e-mail addresses
 
 Your task:
-✅ listen carefully  
-✅ write the correct numbers  
-✅ write the correct e-mail address
+✅ Listen carefully  
+✅ Write the correct numbers  
+✅ Write the correct e-mail address
 
 ---
 
@@ -4334,9 +4334,9 @@ Listen for:
 ## E-mail addresses
 
 Listen carefully to:
-✅ letters  
-✅ symbols  
-✅ spelling
+✅ Letters  
+✅ Symbols  
+✅ Spelling
 
 ---
 
@@ -4378,9 +4378,9 @@ Say the e-mail address aloud slowly:
 🗣️ niklas punkt ab acht acht at xpu punkt de
 
 This improves:
-✅ listening  
-✅ spelling  
-✅ pronunciation
+✅ Listening  
+✅ Spelling  
+✅ Pronunciation
 
 </details>
 
@@ -4393,9 +4393,9 @@ In this speaking exercise, you practice:
 🗣️ asking for contact information.
 
 Your task:
-✅ ask questions  
-✅ answer politely  
-✅ note phone numbers and e-mail addresses
+✅ Ask questions  
+✅ Answer politely  
+✅ Note phone numbers and e-mail addresses
 
 ---
 
@@ -4422,9 +4422,9 @@ Answer:
 ## Helpful speaking strategy
 
 Speak:
-✅ slowly  
-✅ clearly  
-✅ number by number
+✅ Slowly  
+✅ Clearly  
+✅ Number by number
 
 ---
 
@@ -4445,9 +4445,9 @@ When listening:
 ✏️ write immediately
 
 This helps avoid mistakes with:
-- long numbers
-- letters
-- symbols
+- Long numbers
+- Letters
+- Symbols
 
 ---
 
@@ -4457,10 +4457,10 @@ Work with a partner:
 👥 ask and answer several times.
 
 This improves:
-✅ fluency  
-✅ listening  
-✅ pronunciation  
-✅ confidence
+✅ Fluency  
+✅ Listening  
+✅ Pronunciation  
+✅ Confidence
 
 </details>
 
