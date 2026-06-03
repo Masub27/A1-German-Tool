@@ -829,13 +829,13 @@ ausfüllen · haben · hören · lesen · sehen · spielen · tanzen · treiben 
 <summary><b>💡 Hint for 1a – Was ist das? Ordnen Sie zu.</b></summary>
 
 In this exercise, you learn:
-🎓 university vocabulary  
-🎵 free time vocabulary  
+🎓 University vocabulary  
+🎵 Free time vocabulary  
 🧠 German articles
 
 Your task:
-✅ match the pictures with the correct words  
-✅ learn:
+✅ Match the pictures with the correct words  
+✅ Learn:
 - der
 - die
 - das
@@ -878,10 +878,10 @@ Look carefully at:
 
 Then ask:
 👉 Is it:
-- sport?
-- music?
-- computer?
-- university?
+- Sport?
+- Music?
+- Computer?
+- University?
 
 ---
 
@@ -908,9 +908,9 @@ Read the words aloud:
 🗣️ das Keyboard
 
 This improves:
-✅ pronunciation  
-✅ vocabulary  
-✅ article memorization
+✅ Pronunciation  
+✅ Vocabulary  
+✅ Article memorization
 
 </details>
 
@@ -923,8 +923,8 @@ In this exercise, you practice:
 🧩 verb combinations.
 
 Your task:
-✅ connect verbs with the correct nouns  
-✅ learn common German expressions
+✅ Connect verbs with the correct nouns  
+✅ Learn common German expressions
 
 ---
 
@@ -950,9 +950,9 @@ Ask:
 👉 What do we normally do with this thing?
 
 Examples:
-📚 books → read  
-🎵 music → listen  
-⚽ sport → do/play
+📚 Books → read  
+🎵 Music → listen  
+⚽ Sport → do/play
 
 ---
 
@@ -990,9 +990,9 @@ Say the combinations aloud:
 🗣️ Salsa tanzen
 
 This improves:
-✅ fluency  
-✅ vocabulary  
-✅ sentence building
+✅ Fluency  
+✅ Vocabulary  
+✅ Sentence building
 
 </details>
 
@@ -1091,9 +1091,9 @@ In this exercise, you practice:
 📖 reading comprehension
 
 Your task:
-✅ read the interview carefully  
-✅ understand what a <b>Buddy</b> is  
-✅ choose the correct answer
+✅ Read the interview carefully  
+✅ Understand what a <b>Buddy</b> is  
+✅ Choose the correct answer
 
 ---
 
@@ -1124,13 +1124,13 @@ Ask yourself:
 ## Important clue
 
 A Buddy:
-✅ knows the university  
-✅ helps students  
-✅ answers questions  
-✅ gives tips
+✅ Knows the university  
+✅ Helps students  
+✅ Answers questions  
+✅ Gives tips
 
 An Erstsemester:
-✅ is new at university
+✅ Is new at university
 
 ---
 
@@ -1161,9 +1161,9 @@ Your task:
 ## Helpful strategy
 
 Read:
-1️⃣ the left side  
-2️⃣ the right side  
-3️⃣ find the logical connection
+1️⃣ The left side  
+2️⃣ The right side  
+3️⃣ Find the logical connection
 
 ---
 
@@ -1197,9 +1197,9 @@ Correct idea:
 ## Grammar tip
 
 Some sentences continue with:
-- verbs
-- explanations
-- additional information
+- Verbs
+- Explanations
+- Additional information
 
 Example:
 🗣️ „Die Erstsemester …“  
@@ -1219,9 +1219,9 @@ Read the complete sentences aloud after matching:
 🗣️ Die Erstsemester sind neu und haben Fragen.
 
 This improves:
-✅ reading comprehension  
-✅ sentence structure  
-✅ speaking fluency
+✅ Reading comprehension  
+✅ Sentence structure  
+✅ Speaking fluency
 
 </details>
 
@@ -1236,7 +1236,7 @@ In this exercise, you practice:
 ❌ negation with kein / keine
 
 Your task:
-✅ complete the table with:
+✅ Complete the table with:
 - bestimmter Artikel
 - unbestimmter Artikel
 - Negativartikel
@@ -1310,9 +1310,9 @@ Say the examples aloud:
 🗣️ das Studium – es
 
 This improves:
-✅ article memorization  
-✅ grammar accuracy  
-✅ speaking confidence
+✅ Article memorization  
+✅ Grammar accuracy  
+✅ Speaking confidence
 
 </details>
 
@@ -1336,7 +1336,7 @@ Examples:
 - ein Studium
 
 Meaning:
-➡️ the listener does not know the thing yet.
+➡️ The listener does not know the thing yet.
 
 ---
 
@@ -1371,13 +1371,13 @@ Second mention:
 ## Practice tip
 
 Notice:
-📌 first mention = unbestimmter Artikel  
-📌 second mention = bestimmter Artikel
+📌 First mention = unbestimmter Artikel  
+📌 Second mention = bestimmter Artikel
 
 This helps:
-✅ speaking  
-✅ writing  
-✅ reading German texts
+✅ Speaking  
+✅ Writing  
+✅ Reading German texts
 
 </details>
 
@@ -1590,9 +1590,9 @@ Read the sentences aloud:
 🗣️ Der Professor ist neu.
 
 This improves:
-✅ article memorization  
-✅ speaking fluency  
-✅ grammar accuracy
+✅ Article memorization  
+✅ Speaking fluency  
+✅ Grammar accuracy
 
 </details>
 
@@ -1670,9 +1670,9 @@ Read the examples aloud:
 🗣️ Die Sprache ist schwer. Sie ist interessant.
 
 This improves:
-✅ grammar understanding  
-✅ sentence building  
-✅ speaking confidence
+✅ Grammar understanding  
+✅ Sentence building  
+✅ Speaking confidence
 
 </details>
 
@@ -1686,16 +1686,16 @@ In this exercise, you practice:
 🗣️ word stress (Wortakzent)
 
 Your task:
-✅ listen carefully  
-✅ repeat the words  
-✅ clap on the stressed syllable
+✅ Listen carefully  
+✅ Repeat the words  
+✅ Clap on the stressed syllable
 
 ---
 
 ## Important rule
 
 Every German word has:
-✅ one stressed syllable
+✅ One stressed syllable
 
 The stress is stronger and louder.
 
@@ -1704,7 +1704,7 @@ The stress is stronger and louder.
 ## Helpful strategy
 
 Listen for:
-👂 the strongest part of the word
+👂 The strongest part of the word
 
 Examples:
 
@@ -1723,7 +1723,7 @@ Short words:
 - Team
 
 Stress:
-✅ only one syllable
+✅ Only one syllable
 
 ---
 
@@ -1735,7 +1735,7 @@ Examples:
 - Fußball
 
 Usually:
-✅ first syllable is stressed
+✅ First syllable is stressed
 
 ---
 
@@ -1747,7 +1747,7 @@ Examples:
 - Professor
 
 Listen carefully to:
-🎧 the strongest syllable
+🎧 The strongest syllable
 
 ---
 
@@ -1759,7 +1759,7 @@ Examples:
 - Erstsemester
 
 Longer words need:
-✅ slower pronunciation
+✅ Slower pronunciation
 
 ---
 
@@ -1772,9 +1772,9 @@ Clap while speaking:
 👏 U-ni-ver-si-tät
 
 This improves:
-✅ pronunciation  
-✅ rhythm  
-✅ listening skills
+✅ Pronunciation  
+✅ Rhythm  
+✅ Listening skills
 
 </details>
 
@@ -1859,10 +1859,10 @@ In this exercise, you practice:
 🌍 language exchange vocabulary
 
 Your task:
-✅ listen carefully  
-✅ identify:
-- who speaks a language
-- who learns a language
+✅ Listen carefully  
+✅ Identify:
+- Who speaks a language
+- Who learns a language
 
 ---
 
@@ -1891,11 +1891,11 @@ These phrases give the answer directly.
 ## Important idea
 
 A Sprachtandem means:
-✅ two people help each other learn languages
+✅ Two people help each other learn languages
 
 Example:
-- one person speaks German
-- the other speaks Spanish
+- One person speaks German
+- The other speaks Spanish
 
 ---
 
@@ -1906,8 +1906,8 @@ Ask:
 👉 Who speaks Spanish?
 
 Then match:
-- speak
-- learn
+- Speak
+- Learn
 
 ---
 
@@ -1919,9 +1919,9 @@ Say the sentences aloud:
 🗣️ Pablo lernt Deutsch.
 
 This improves:
-✅ pronunciation  
-✅ listening skills  
-✅ sentence building
+✅ Pronunciation  
+✅ Listening skills  
+✅ Sentence building
 
 </details>
 
@@ -1935,8 +1935,8 @@ In this exercise, you practice:
 🎯 Freizeit vocabulary
 
 Your task:
-✅ listen carefully  
-✅ mark the activities Daniel and Pablo talk about
+✅ Listen carefully  
+✅ Mark the activities Daniel and Pablo talk about
 
 ---
 
@@ -1971,8 +1971,8 @@ Examples:
 Not every picture is correct.
 
 You must:
-✅ listen carefully  
-❌ do not choose all pictures
+✅ Listen carefully  
+❌ Do not choose all pictures
 
 ---
 
@@ -2001,9 +2001,9 @@ Read the activities aloud:
 🗣️ Musik hören
 
 This improves:
-✅ vocabulary  
-✅ speaking  
-✅ listening recognition
+✅ Vocabulary  
+✅ Speaking  
+✅ Listening recognition
 
 </details>
 
@@ -2037,9 +2037,9 @@ Your task:
 ## Helpful strategy
 
 Listen carefully to:
-🎧 the voice  
-🎧 the language information  
-🎧 hobbies and abilities
+🎧 The voice  
+🎧 The language information  
+🎧 Hobbies and abilities
 
 ---
 
@@ -2077,9 +2077,9 @@ Repeat the sentences aloud:
 🗣️ Ich tanze nicht.
 
 This improves:
-✅ pronunciation  
-✅ listening  
-✅ negation structures
+✅ Pronunciation  
+✅ Listening  
+✅ Negation structures
 
 </details>
 
@@ -2092,7 +2092,7 @@ In this exercise, you practice:
 🎧 understanding the final result of the conversation
 
 Your task:
-✅ decide what Daniel and Pablo do together
+✅ Decide what Daniel and Pablo do together
 
 ---
 
@@ -2118,7 +2118,7 @@ Ask:
 ## Important clue
 
 A Sprachtandem usually means:
-✅ speaking different languages together
+✅ Speaking different languages together
 
 So ask:
 👉 Do they only speak German?
@@ -2191,7 +2191,7 @@ In this exercise, you practice:
 ❌ negation in German
 
 Your task:
-✅ understand the difference between:
+✅ Understand the difference between:
 - nicht
 - kein / keine
 
@@ -2279,9 +2279,9 @@ Read aloud:
 🗣️ Pablo kommt nicht aus Portugal.
 
 This improves:
-✅ grammar accuracy  
-✅ pronunciation  
-✅ sentence structure
+✅ Grammar accuracy  
+✅ Pronunciation  
+✅ Sentence structure
 
 </details>
 
@@ -2294,7 +2294,7 @@ In this exercise, you practice:
 ❌ making negative sentences
 
 Your task:
-✅ change positive sentences into negative sentences
+✅ Change positive sentences into negative sentences
 
 ---
 
@@ -2359,9 +2359,9 @@ Say the pairs aloud:
 🗣️ Luis treibt nicht gern Sport.
 
 This improves:
-✅ fluency  
-✅ negation structures  
-✅ speaking confidence
+✅ Fluency  
+✅ Negation structures  
+✅ Speaking confidence
 
 </details>
 
@@ -2402,16 +2402,16 @@ In this exercise, you practice:
 🗣️ pronunciation and intonation
 
 Your task:
-✅ listen carefully  
-✅ identify:
-📌 which word is stressed in each sentence
+✅ Listen carefully  
+✅ Identify:
+📌 Which word is stressed in each sentence
 
 ---
 
 ## Important rule
 
 In German:
-✅ one word is usually stronger than the others
+✅ One word is usually stronger than the others
 
 The stressed word:
 - is louder
@@ -2471,9 +2471,9 @@ Notice:
 ## Listening tip
 
 Listen for:
-🎧 louder pronunciation  
-🎧 longer pronunciation  
-🎧 stronger rhythm
+🎧 Louder pronunciation  
+🎧 Longer pronunciation  
+🎧 Stronger rhythm
 
 ---
 
@@ -2487,9 +2487,9 @@ Read aloud and stress the bold word:
 🗣️ Anna und Alex spielen lieber **Volleyball**.
 
 This improves:
-✅ pronunciation  
-✅ sentence melody  
-✅ speaking confidence
+✅ Pronunciation  
+✅ Sentence melody  
+✅ Speaking confidence
 
 </details>
 
@@ -2610,12 +2610,12 @@ Technik [[2]]
 
 In this exercise, you practice:
 📖 reading advertisements  
-🎓 university vocabulary  
-🧩 matching topics
+🎓 University vocabulary  
+🧩 Matching topics
 
 Your task:
-✅ read the advertisements carefully  
-✅ match them with the correct topic
+✅ Read the advertisements carefully  
+✅ Match them with the correct topic
 
 ---
 
@@ -2637,10 +2637,10 @@ Ask:
 👉 What is the advertisement about?
 
 Look for:
-- music instruments
-- laptops
-- sport activities
-- surfboards
+- Music instruments
+- Laptops
+- Sport activities
+- Surfboards
 
 ---
 
@@ -2673,10 +2673,10 @@ Look for:
 ## Important note
 
 Two topics:
-❌ do not match any advertisement
+❌ Do not match any advertisement
 
 So:
-✅ not every topic has an advertisement
+✅ Not every topic has an advertisement
 
 ---
 
@@ -2685,9 +2685,9 @@ So:
 Read the advertisements aloud.
 
 This improves:
-✅ reading comprehension  
-✅ vocabulary  
-✅ pronunciation
+✅ Reading comprehension  
+✅ Vocabulary  
+✅ Pronunciation
 
 </details>
 
@@ -2701,7 +2701,7 @@ In this exercise, you practice:
 🎯 matching people with offers
 
 Your task:
-✅ decide:
+✅ Decide:
 Which advertisement matches the person?
 
 ---
@@ -2721,32 +2721,32 @@ Then ask:
 ### Example 1
 
 Arthur:
-🏄 has a surfboard  
-🏫 wants a course
+🏄 Has a surfboard  
+🏫 Wants a course
 
 Look for:
-✅ sport courses
+✅ Sport courses
 
 ---
 
 ### Example 2
 
 Yuma:
-💻 needs a computer
+💻 Needs a computer
 
 Look for:
-✅ laptop advertisement
+✅ Laptop advertisement
 
 ---
 
 ### Example 3
 
 Tom und Finja:
-🎸 learn guitar  
-❓ have questions
+🎸 Learn guitar  
+❓ Have questions
 
 Look for:
-✅ music lessons
+✅ Music lessons
 
 ---
 
@@ -2782,9 +2782,9 @@ Read the sentences aloud:
 🗣️ Tom und Finja lernen Gitarre.
 
 This improves:
-✅ reading skills  
-✅ vocabulary  
-✅ speaking confidence
+✅ Reading skills  
+✅ Vocabulary  
+✅ Speaking confidence
 
 </details>
 
@@ -2875,7 +2875,7 @@ In this exercise, you practice:
 🧠 Nominativ and Akkusativ
 
 Your task:
-✅ complete the article table correctly
+✅ Complete the article table correctly
 
 ---
 
@@ -2883,7 +2883,7 @@ Your task:
 
 ### Nominativ
 Use for:
-✅ subject (wer? / was?)
+✅ Subject (wer? / was?)
 
 Examples:
 - der Computer ist neu.
@@ -2959,9 +2959,9 @@ Read aloud:
 🗣️ einen Laptop
 
 This improves:
-✅ grammar understanding  
-✅ article memorization  
-✅ speaking fluency
+✅ Grammar understanding  
+✅ Article memorization  
+✅ Speaking fluency
 
 </details>
 
@@ -2974,7 +2974,7 @@ In this exercise, you practice:
 📖 grammar rules
 
 Your task:
-✅ complete the rules with:
+✅ Complete the rules with:
 - Maskulinum
 - Nominativ
 - Ergänzung
@@ -3043,9 +3043,9 @@ Compare:
 🗣️ Ich kaufe den Computer.
 
 This helps:
-✅ understand cases  
-✅ recognize Akkusativ  
-✅ improve sentence building
+✅ Understand cases  
+✅ Recognize Akkusativ  
+✅ Improve sentence building
 
 </details>
 
@@ -3058,7 +3058,7 @@ In this exercise, you practice:
 🧩 choosing the correct article
 
 Your task:
-✅ complete:
+✅ Complete:
 - ein / eine / einen
 - kein / keine / keinen
 - der / die / das
@@ -3092,7 +3092,7 @@ First ask:
 ## Important clue
 
 Plural:
-✅ always:
+✅ Always:
 - die
 - keine
 
@@ -3120,9 +3120,9 @@ Read the examples aloud:
 🗣️ die Laptops
 
 This improves:
-✅ article memorization  
+✅ Article memorization  
 ✅ Akkusativ understanding  
-✅ speaking confidence
+✅ Speaking confidence
 
 </details>
 
@@ -3245,9 +3245,9 @@ In this exercise, you practice:
 🗣️ formal and informal language
 
 Your task:
-✅ decide:
-- formell
-- informell
+✅ Decide:
+- Formell
+- Informell
 
 ---
 
@@ -3255,10 +3255,10 @@ Your task:
 
 ### Formell
 Use with:
-- professors
-- teachers
-- offices
-- unknown people
+- Professors
+- Teachers
+- Offices
+- Unknown people
 
 Typical words:
 - Sehr geehrte/r …
@@ -3269,9 +3269,9 @@ Typical words:
 
 ### Informell
 Use with:
-- friends
-- classmates
-- buddies
+- Friends
+- Classmates
+- Buddies
 
 Typical words:
 - Hallo …
@@ -3323,14 +3323,14 @@ Example:
 Read both emails aloud.
 
 Notice:
-✅ greeting  
-✅ pronouns  
-✅ ending
+✅ Greeting  
+✅ Pronouns  
+✅ Ending
 
 This improves:
-✅ email writing  
-✅ communication skills  
-✅ formal/informal understanding
+✅ Email writing  
+✅ Communication skills  
+✅ Formal/informal understanding
 
 </details>
 
@@ -3343,7 +3343,7 @@ In this exercise, you practice:
 📝 filling out forms
 
 Your task:
-✅ complete the registration form with personal information
+✅ Complete the registration form with personal information
 
 ---
 
@@ -3364,9 +3364,9 @@ Your task:
 ## Helpful strategy
 
 Write:
-✅ complete information  
-✅ clear spelling  
-✅ correct format
+✅ Complete information  
+✅ Clear spelling  
+✅ Correct format
 
 ---
 
@@ -3390,7 +3390,7 @@ German forms often use:
 - Datum
 
 Be careful with:
-✅ capitalization
+✅ Capitalization
 
 ---
 
@@ -3403,9 +3403,9 @@ Practice saying your information aloud:
 🗣️ Meine E-Mail-Adresse ist …
 
 This improves:
-✅ speaking  
-✅ spelling  
-✅ everyday communication
+✅ Speaking  
+✅ Spelling  
+✅ Everyday communication
 
 </details>
 
@@ -3418,10 +3418,10 @@ In this exercise, you practice:
 📧 writing an informal email
 
 Your task:
-✅ write:
-- greeting
-- short message
-- ending
+✅ Write:
+- Greeting
+- Short message
+- Ending
 
 ---
 
@@ -3466,7 +3466,7 @@ Because Lars says:
 🗣️ „du“
 
 You should also use:
-✅ informal language
+✅ Informal language
 
 ---
 
@@ -3475,13 +3475,13 @@ You should also use:
 Read your email aloud.
 
 Check:
-✅ greeting  
-✅ polite message  
-✅ ending
+✅ Greeting  
+✅ Polite message  
+✅ Ending
 
 This improves:
-✅ email writing  
-✅ communication  
+✅ Email writing  
+✅ Communication  
 ✅ German sentence structure
 
 </details>
