@@ -439,9 +439,9 @@ Studium • Freizeit • Sprache
 Hello! I am your Chapter 2 Smart Help Bot.
 
 You can:
-• type your own question
-• click a quick topic button
-• ask about grammar, vocabulary, university life, hobbies, mailbox messages, or chapter sections
+• Type your own question
+• Click a quick topic button
+• Ask about grammar, vocabulary, university life, hobbies, mailbox messages, or chapter sections
 
 Try one of these:
 - What can I learn in this chapter?
@@ -883,9 +883,9 @@ Try one of these:
     box.textContent = `Hello! I am your Chapter 2 Smart Help Bot.
 
 You can:
-• type your own question
-• click a quick topic button
-• ask about grammar, university life, hobbies, mailbox messages, or chapter sections
+• Type your own question
+• Click a quick topic button
+• Ask about grammar, university life, hobbies, mailbox messages, or chapter sections
 
 Try one of these:
 - What can I learn in this chapter?
@@ -939,7 +939,7 @@ To solve the task:
 - Professors
 
 Pay attention to:
-- capital letters → German nouns always begin with a capital letter
+- Capital letters → German nouns always begin with a capital letter
 - articles:
   - der
   - die
@@ -1129,16 +1129,16 @@ Verbs normally begin with a small letter:
 - lernen
 
 This helps you identify:
-- nouns
-- verbs
-- sentence structure
+- Nouns
+- Verbs
+- Sentence structure
 
 ---
 
 ### Important
 
 Sometimes:
-✅ more than one answer is correct.
+✅ More than one answer is correct.
 
 Read every option carefully before choosing.
 
@@ -1180,10 +1180,10 @@ To solve the task:
 1️⃣ Read the sentence carefully  
 
 2️⃣ Look for clues about:
-- profession
-- university role
-- gender
-- singular or plural
+- Profession
+- University role
+- Gender
+- Singular or plural
 
 ---
 
@@ -1206,11 +1206,11 @@ Examples:
 
 Think about what the person does:
 
-- studies music → Student
-- helps first-semester students → Buddy
-- organizes together → Team
-- works for a journal → Mitarbeiterin
-- teaches at university → Professorinnen
+- Studies music → Student
+- Helps first-semester students → Buddy
+- Organizes together → Team
+- Works for a journal → Mitarbeiterin
+- Teaches at university → Professorinnen
 
 ---
 
@@ -1273,8 +1273,8 @@ To solve the task:
 
 1️⃣ Look at the noun carefully  
 2️⃣ Identify:
-- singular or plural
-- masculine, feminine, or neuter gender
+- Singular or plural
+- Masculine, feminine, or neuter gender
 
 ---
 
@@ -1374,8 +1374,8 @@ To solve the task:
 - das
 
 2️⃣ Check if the noun is:
-- one person/object → singular
-- more than one → plural
+- One person/object → singular
+- More than one → plural
 
 ---
 
@@ -1583,13 +1583,13 @@ Examples:
 The first sentence gives a wrong guess.
 
 You must:
-1️⃣ negate the wrong noun 
+1️⃣ Negate the wrong noun 
 
-2️⃣ write the correct noun
+2️⃣ Write the correct noun
 
 Example:
-- not a violin → a guitar
-- not footballs → basketballs
+- Not a violin → a guitar
+- Not footballs → basketballs
 
 ---
 
@@ -1647,10 +1647,10 @@ To solve the task:
 
 1️⃣ Look at the noun carefully  
 2️⃣ Identify:
-- masculine
-- feminine
-- neuter
-- plural
+- Masculine
+- Feminine
+- Neuter
+- Plural
 
 Then choose the correct pronoun.
 
@@ -1704,8 +1704,8 @@ Pronouns are written in small letters:
 ### Listening strategy
 
 Listen carefully to:
-- pronunciation of er / es / sie
-- singular or plural meaning
+- Pronunciation of er / es / sie
+- Singular or plural meaning
 
 </details>
 
@@ -1882,7 +1882,7 @@ Words like:
 - aber
 - und
 
-connect ideas and help you continue the message logically.
+Connect ideas and help you continue the message logically.
 
 ---
 
@@ -1899,11 +1899,11 @@ These are usually near the end.
 ### Important writing strategy
 
 Read the text like a real WhatsApp or chat message:
-- greeting
-- personal information
-- university/study details
-- questions to the friend
-- closing
+- Greeting
+- Personal information
+- University/study details
+- Questions to the friend
+- Closing
 
 This helps you find the correct order naturally.
 
@@ -1946,10 +1946,10 @@ You must build negative sentences.
 ### Important grammar rule
 
 <b>nicht</b> usually comes:
-- before adjectives
-- before places
-- before adverbs
-- or at the end of the sentence
+- Before adjectives
+- Before places
+- Before adverbs
+- Or at the end of the sentence
 
 ---
 
@@ -1986,10 +1986,10 @@ Ask yourself:
 
 👉 What exactly is negated?
 
-- the place?
-- the adjective?
-- the activity?
-- the opinion?
+- The place?
+- The adjective?
+- The activity?
+- The opinion?
 
 Then place <b>nicht</b> before that part.
 
@@ -2034,7 +2034,7 @@ The subject usually comes at the beginning.
 2️⃣ Find the verb
 
 German main sentences need:
-👉 the verb in Position 2.
+👉 The verb in Position 2.
 
 Examples:
 - sind
@@ -2047,10 +2047,10 @@ Examples:
 3️⃣ Place <b>nicht</b> correctly
 
 Use <b>nicht</b> to negate:
-- a place
-- an adjective
-- an activity
-- the whole sentence
+- A place
+- An adjective
+- An activity
+- The whole sentence
 
 Examples:
 - nicht im Sprachkurs
@@ -2193,9 +2193,9 @@ To solve the task:
 ### Helpful strategy
 
 Search for:
-- university vocabulary
-- hobby vocabulary
-- objects and activities
+- University vocabulary
+- Hobby vocabulary
+- Objects and activities
 
 Examples:
 - Laptop
@@ -2256,11 +2256,11 @@ In this listening exercise, you must complete the mailbox messages with the corr
 To solve the task:
 
 1️⃣ Listen for keywords about:
-- hobbies
-- university courses
-- music
-- technology
-- registration
+- Hobbies
+- University courses
+- Music
+- Technology
+- Registration
 
 ---
 
@@ -2306,9 +2306,9 @@ Examples:
 ### Listening tip
 
 Listen carefully for:
-- singular or plural forms
-- familiar university vocabulary
-- pronunciation of long German nouns
+- Singular or plural forms
+- Familiar university vocabulary
+- Pronunciation of long German nouns
 
 </details>
 
