@@ -2,7 +2,7 @@
 <!--
 
 author:   Kanwal & Makhdoom
-email:    masub.makhdoom@ovgu.de
+email:    masub.makhdoom@ovgu.de / mahwish.kanwal@ovgu.de
 date:     28/01/2026
 version:  30.0.0
 language: en
@@ -473,9 +473,9 @@ To solve the task:
 1️⃣ Read the question carefully 
 
 2️⃣ Look for keywords:
-- name
-- country/city
-- greeting
+- Name
+- Country/city
+- Greeting
 
 3️⃣ Find the logical answer
 
@@ -613,14 +613,14 @@ Examples:
 ### Important
 
 Look carefully at:
-- formal language → Sie / Ihr
-- informal language → du / dein
+- Formal language → Sie / Ihr
+- Informal language → du / dein
 
 #### Gespräch A
-= formal conversation
+= Formal conversation
 
 #### Gespräch B
-= informal conversation
+= Informal conversation
 
 This helps you order the dialogue correctly.
 
@@ -629,9 +629,9 @@ This helps you order the dialogue correctly.
 ### Listening strategy
 
 Listen to:
-- greeting order
-- question-answer rhythm
-- pauses between speakers
+- Greeting order
+- Question-answer rhythm
+- Pauses between speakers
 
 This helps you understand natural German conversation flow.
 
@@ -695,9 +695,9 @@ To solve the task:
 
 1️⃣ Listen carefully to each name  
 2️⃣ Focus on:
-- individual letters
+- Individual letters
 - German pronunciation
-- spelling patterns
+- Spelling patterns
 
 ---
 
@@ -706,13 +706,13 @@ To solve the task:
 German names are often spelled letter by letter.
 
 Pay attention to:
-- consonants like:
+- Consonants like:
   - d
   - t
   - z
   - h
 
-- vowels like:
+- Vowels like:
   - a
   - e
   - i
@@ -871,9 +871,9 @@ Examples:
 <summary><b>💡 Hint</b></summary>
 
 In this listening and pronunciation exercise, you must:
-1️⃣ complete the missing vowels  
+1️⃣ Complete the missing vowels  
 
-2️⃣ repeat the sentences aloud
+2️⃣ Repeat the sentences aloud
 
 ---
 
@@ -937,14 +937,14 @@ These are common German beginner phrases.
 ### Step 3️⃣ Speak after listening
 
 Repeat the sentences slowly:
-- focus on vowels
-- stress the correct syllables
-- imitate pronunciation rhythm
+- Focus on vowels
+- Stress the correct syllables
+- Imitate pronunciation rhythm
 
 This helps improve:
-✅ listening  
-✅ speaking  
-✅ pronunciation
+✅ Listening  
+✅ Speaking  
+✅ Pronunciation
 
 </details>
 
@@ -1260,10 +1260,10 @@ In this exercise, you complete a formal introduction conversation in German.
 To solve the task:
 
 1️⃣ Look for common conversation patterns:
-- greeting
-- name
-- spelling
-- country/origin
+- Greeting
+- Name
+- Spelling
+- Country/Origin
 
 ---
 
@@ -1368,9 +1368,9 @@ In this exercise, you choose the correct personal pronoun:
 To solve the task:
 
 1️⃣ Identify:
-- male person
-- female person
-- plural (more than one person)
+- Male person
+- Female person
+- Plural (more than one person)
 
 ---
 
@@ -1641,9 +1641,9 @@ Example:
 ### Helpful strategy
 
 Look carefully at:
-- the pronoun
-- singular or plural
-- regular or irregular verb
+- The pronoun
+- Singular or plural
+- Regular or irregular verb
 
 This helps you find the correct form.
 
@@ -1762,9 +1762,9 @@ Changes vowel in:
 ### Helpful strategy
 
 Before writing the verb:
-1️⃣ identify the subject  
-2️⃣ check singular or plural  
-3️⃣ choose the correct verb ending
+1️⃣ Identify the subject  
+2️⃣ Check singular or plural  
+3️⃣ Choose the correct verb ending
 
 </details>
 
@@ -1794,10 +1794,10 @@ Before writing the verb:
 <summary><b>💡 Hint</b></summary>
 
 In these exercises, you practice:
-- sentence building
-- present tense verbs
-- capital letters in German
-- countries and languages
+- Sentence building
+- Present tense verbs
+- Capital letters in German
+- Countries and languages
 
 Important:
 German nouns and languages begin with a capital letter:
@@ -1932,7 +1932,7 @@ To solve the task:
 1️⃣ Think about:
 👉 Do people say this at the beginning?
 or
-👉 at the end of a conversation?
+👉 At the end of a conversation?
 
 ---
 
@@ -2015,10 +2015,10 @@ In this exercise, you match emotions with the correct German expressions.
 To solve the task:
 
 1️⃣ Look carefully at the emoji:
-- happy
-- very excited
-- neutral
-- sad
+- Happy
+- Very excited
+- Neutral
+- Sad
 
 2️⃣ Match the feeling with the correct sentence.
 
@@ -2375,9 +2375,9 @@ Ich arbeite an der Universität.
 <summary><b>💡 Hint</b></summary>
 
 In this exercise, you read short portraits and complete the table with:
-- place of residence
-- languages
-- study subject or profession
+- Place of residence
+- Languages
+- Study subject or profession
 
 To solve the task:
 
