@@ -1008,10 +1008,10 @@ Important patterns:
   → ihr wollt
 
 Also notice:
-- In <b>können</b>, the vowel changes from <b>ö → a</b> in singular forms:
+- In <b>können</b>, The vowel changes from <b>ö → a</b> in singular forms:
   → kann, kannst
 
-- In <b>wollen</b>, the singular forms use:
+- In <b>wollen</b>, The singular forms use:
   → will, willst
 
 Read each row carefully and match the verb form with the correct subject pronoun.
@@ -1118,8 +1118,8 @@ You must decide:
 
 ### 1️⃣ Fähigkeit / Kompetenz
 This means:
-→ someone has a skill or ability  
-→ “to be able to do something”
+→ Someone has a skill or ability  
+→ “To be able to do something”
 
 Examples:
 - Er kann gut kochen.  
@@ -1138,7 +1138,7 @@ Look for:
 
 ### 2️⃣ Möglichkeit
 This means:
-→ something is possible or allowed
+→ Something is possible or allowed
 
 Examples:
 - In der Mensa kann man vegan essen.  
@@ -1252,8 +1252,8 @@ Example:
 - Anne und Mia <b>wollen</b> kein Fleisch <b>essen</b>.
 
 There are always:
-1️⃣ a conjugated modal verb  
-2️⃣ a second verb in the infinitive
+1️⃣ A conjugated modal verb  
+2️⃣ A second verb in the infinitive
 
 ---
 
@@ -1516,10 +1516,10 @@ Look for:
 
 Example:
 - Ben says eggs and garlic smell bad and disturb others  
-  → this is a <b>contra</b> argument
+  → This is a <b>contra</b> argument
 
 - Carla says hungry students cannot learn well  
-  → this is a <b>pro</b> argument
+  → This is a <b>pro</b> argument
 
 Try to identify:
 - Words about politeness
@@ -1585,12 +1585,12 @@ German sentences can begin with different elements.
 Example:
 
 - Ich esse gern Fisch.  
-  → normal word order  
-  → focus on “Ich”
+  → Normal word order  
+  → Focus on “Ich”
 
 - Fisch esse ich gern.  
-  → object comes first  
-  → stronger focus on “Fisch”
+  → Object comes first  
+  → Stronger focus on “Fisch”
 
 The verb still stays in <b>Position 2</b>.
 
@@ -1761,7 +1761,7 @@ Example:
 
 Notice:
 - <b>kann</b> stays in Position 2
-- the subject can come after the verb in some German sentences
+- The subject can come after the verb in some German sentences
 
 This exercise helps you understand:
 - Sentence connectors
@@ -2014,7 +2014,7 @@ After:
 - denn
 - aber
 
-the sentence structure stays normal:
+The sentence structure stays normal:
 - subject
 - verb
 - other information
@@ -2158,18 +2158,18 @@ To solve the task:
 
 ### Step 1️⃣ Listen for keywords
 Pay attention to:
-- ingredients
-- sweet or salty food
-- meat or dessert
-- bread or meal
+- Ingredients
+- Sweet or salty food
+- Meat or dessert
+- Bread or meal
 
 ---
 
 ### Step 2️⃣ Understand the definitions
 
 #### a.
-- sweet bread
-- cinnamon and sugar
+- Sweet bread
+- Cinnamon and sugar
 👉 This describes a sweet bakery product.
 
 ---
@@ -2182,18 +2182,18 @@ Think about a traditional sandwich or bread dish from Hamburg.
 ---
 
 #### c.
-- dessert
-- strawberries and cherries
-- vanilla sauce
+- Dessert
+- Strawberries and cherries
+- Vanilla sauce
 👉 This is a sweet fruit dessert.
 
 ---
 
 #### d.
-- meat
-- potatoes
-- beetroot
-- fried egg
+- Meat
+- Potatoes
+- Beetroot
+- Fried egg
 👉 This is a heavy traditional warm meal.
 
 ---
@@ -2206,9 +2206,9 @@ Think about a traditional sandwich or bread dish from Hamburg.
 - <b>Franzbrötchen</b> → sweet cinnamon pastry
 
 Listen carefully for:
-- food ingredients
-- whether the dish is sweet or savory
-- words like Zucker, Fleisch, Erdbeeren, Brötchen
+- Food ingredients
+- Whether the dish is sweet or savory
+- Words like Zucker, Fleisch, Erdbeeren, Brötchen
 
 </details>
 
@@ -2495,13 +2495,13 @@ s<span style="color:#c0392b;font-weight:bold;">ü</span>ß – das St<span style
 
 In this exercise, you compare the verbs:
 
-- <b>möcht-</b> = would like  
-- <b>mögen</b> = to like
+- <b>möcht-</b> = Would like  
+- <b>mögen</b> = To like
 
 Both verbs are used to talk about:
-- wishes
-- preferences
-- likes
+- Wishes
+- Preferences
+- Likes
 
 ---
 
@@ -2514,7 +2514,7 @@ Examples:
 - Ich möchte einen Tee.
 - Wir möchten bestellen.
 
-👉 polite request / wish
+👉 Polite request / wish
 
 ---
 
