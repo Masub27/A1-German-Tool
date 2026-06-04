@@ -739,12 +739,12 @@ You need to read the family tree and complete the text with the correct names.
 2️⃣ Read the text sentence by sentence.  
 
 3️⃣ Look for family relationship words like:
-- mother
-- father
-- sister
-- cousin
-- aunt
-- grandfather
+- Mother
+- Father
+- Sister
+- Cousin
+- Aunt
+- Grandfather
 
 4️⃣ Find the correct person in the family tree.
 
@@ -923,9 +923,9 @@ You will hear Julian talking about his mother’s birthday and the guests for th
 Sometimes you do not need to understand every word.
 
 👉 Listen for:
-- names
-- family words
-- repeated information
+- Names
+- Family words
+- Repeated information
 
 These help you find the correct answer quickly.
 
@@ -1017,10 +1017,10 @@ Possessive articles show:
 👉 who something belongs to.
 
 Examples:
-- my father
-- your mother
-- his sister
-- her parents
+- My father
+- Your mother
+- His sister
+- Her parents
 
 ---
 
@@ -1039,7 +1039,7 @@ Examples:
 
 The possessive article changes depending on:
 
-1️⃣ the person  
+1️⃣ The person  
 (ich, du, er, sie, wir …)
 
 2️⃣ the noun gender  
@@ -1685,9 +1685,9 @@ b
 In this exercise, you practice <b>describing people and understanding spoken information</b>.
 
 You will:
-- identify family members in a picture
-- describe appearance
-- understand opinions and descriptions from a conversation
+- Identify family members in a picture
+- Describe appearance
+- Understand opinions and descriptions from a conversation
 
 ---
 
@@ -1734,10 +1734,10 @@ Examples:
 2️⃣ Match the letters (A–E) with the correct people.  
 
 3️⃣ Use clues like:
-- age
-- hairstyle
-- gender
-- family relationships
+- Age
+- Hairstyle
+- Gender
+- Family relationships
 
 ---
 
@@ -1746,10 +1746,10 @@ Examples:
 1️⃣ Listen carefully to the conversation.  
 
 2️⃣ Focus on:
-- physical appearance
-- hair color
-- opinions
-- personality descriptions
+- Physical appearance
+- Hair color
+- Opinions
+- Personality descriptions
 
 3️⃣ Compare option a and option b carefully before choosing.
 
@@ -1760,12 +1760,12 @@ Examples:
 Do not translate every word.
 
 🎧 Listen for important keywords like:
-- blond
-- lockig
-- groß
-- süß
-- intelligent
-- cool
+- Blond
+- Lockig
+- Groß
+- Süß
+- Intelligent
+- Cool
 
 These words help you find the correct answer quickly.
 
@@ -1960,8 +1960,8 @@ Das Adjektiv beschreibt das Verb.
 
 In this exercise, you learn about <b>German adjectives</b> and how they describe:
 
-👉 a person or thing  
-👉 or an action
+👉 A person or thing  
+👉 Or an action
 
 You will practice two grammar types:
 
@@ -2045,9 +2045,9 @@ Examples:
 Complete the grammar rules using the word box.
 
 Focus on:
-- noun description
-- action description
-- adjective form
+- Noun description
+- Action description
+- Adjective form
 
 ---
 
@@ -2109,8 +2109,8 @@ The adjective form does not change.
 
 In this exercise, you practice <b>German pronunciation</b>, especially:
 
-🔊 short vowels  
-🔊 long vowels
+🔊 Short vowels  
+🔊 Long vowels
 
 You will listen to German words and decide:
 
@@ -2122,9 +2122,9 @@ You will listen to German words and decide:
 ### Important pronunciation idea
 
 In German, vowel length can change:
-- pronunciation
-- rhythm
-- sometimes even meaning
+- Pronunciation
+- Rhythm
+- Sometimes even meaning
 
 Examples:
 
@@ -2187,9 +2187,9 @@ OR
 🎧 Listen more than once.
 
 German pronunciation becomes easier when you:
-- repeat the words aloud
-- compare short and long sounds
-- speak slowly first
+- Repeat the words aloud
+- Compare short and long sounds
+- Speak slowly first
 
 ---
 
@@ -2553,15 +2553,15 @@ Ask yourself:
 You do NOT need to understand every word.
 
 Focus on:
-- important adjectives
-- opinions
-- repeated ideas
+- Important adjectives
+- Opinions
+- Repeated ideas
 
 Examples:
-- loyal
-- ehrlich
-- offen
-- zusammen
+- Loyal
+- Ehrlich
+- Offen
+- Zusammen
 - Respekt
 - Freunde
 
@@ -2572,10 +2572,10 @@ These help you understand the meaning quickly.
 🎯 Important Idea
 
 Many students explain:
-- friendship needs trust
-- friendship needs time
-- friendship needs respect
-- internet contacts are not always real friends
+- Friendship needs trust
+- Friendship needs time
+- Friendship needs respect
+- Internet contacts are not always real friends
 
 </details>
 
@@ -2829,9 +2829,9 @@ Heute bekommt [[man]] ein Getränk gratis.
 In this exercise, you learn about <b>Indefinitpronomen (indefinite pronouns)</b> in German.
 
 These pronouns are used when:
-- a person is not specific
-- the amount is not exact
-- or we speak generally about things and people
+- A person is not specific
+- The amount is not exact
+- Or we speak generally about things and people
 
 ---
 
@@ -2894,9 +2894,9 @@ Example:
 Read the sentences carefully.
 
 Then match:
-- the meaning
-- the pronoun
-- and the example sentence
+- The meaning
+- The pronoun
+- And the example sentence
 
 ---
 
@@ -2907,11 +2907,11 @@ Focus on the definitions.
 Ask yourself:
 
 👉 Is it:
-- everything?
-- nothing?
-- a lot?
-- a little?
-- people in general?
+- Everything?
+- Nothing?
+- A lot?
+- A little?
+- People in general?
 
 This helps you choose the correct pronoun.
 
@@ -2923,9 +2923,9 @@ Read the sentence carefully and think about the meaning.
 
 Examples:
 
-- large amount → <b>viel</b>  
-- zero → <b>nichts</b>  
-- general people → <b>man</b>  
+- Large amount → <b>viel</b>  
+- Zero → <b>nichts</b>  
+- General people → <b>man</b>  
 - 100% → <b>alles</b>  
 
 ---
@@ -2935,11 +2935,11 @@ Examples:
 Indefinite pronouns are very common in everyday German.
 
 You hear them often in:
-- conversations
-- university life
-- emails
-- opinions
-- descriptions
+- Conversations
+- University life
+- Emails
+- Opinions
+- Descriptions
 
 </details>
 
