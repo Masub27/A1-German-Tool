@@ -688,9 +688,9 @@ Example:
 ### Helpful strategy
 
 Think about:
-🎓 university activities  
-🏠 household activities  
-😴 free-time activities
+🎓 University activities  
+🏠 Household activities  
+😴 Free-time activities
 
 Try to organize the week logically.
 
@@ -954,8 +954,8 @@ That is why:
 
 In German modal verb sentences:
 
-✅ the modal verb is in Position 2  
-✅ the infinitive goes to the end of the sentence
+✅ The modal verb is in Position 2  
+✅ The infinitive goes to the end of the sentence
 
 Example:
 - Ich muss heute lernen.
@@ -1047,8 +1047,8 @@ so no second verb is needed.
 
 In this listening exercise, you focus on:
 🕒 German time expressions  
-📞 misunderstandings in a conversation  
-🥗 food preparation activities
+📞 Misunderstandings in a conversation  
+🥗 Food preparation activities
 
 To solve the task:
 
@@ -1094,9 +1094,9 @@ So:
 ### Listening strategy
 
 Listen for:
-🕒 times  
-🍴 food words  
-🙋 who misunderstands the plan
+🕒 Times  
+🍴 Food words  
+🙋 Who misunderstands the plan
 
 ---
 
@@ -1338,8 +1338,8 @@ To solve the task:
 1️⃣ Look at the clock pictures.  
 2️⃣ Read the informal time expression.  
 3️⃣ Match it with:
-- the formal German time
-- the digital clock format
+- The formal German time
+- The digital clock format
 
 ---
 
@@ -1360,10 +1360,10 @@ These are common in daily conversations.
 ## Formal German time
 
 Formal time is used in:
-- schedules
-- university timetables
-- train stations
-- official situations
+- Schedules
+- University timetables
+- Train stations
+- Official situations
 
 Example:
 - fünfzehn Uhr dreißig
@@ -1381,7 +1381,7 @@ Example:
 Why?
 
 German means:
-👉 halfway TO four
+👉 Halfway TO four
 
 ---
 
@@ -1403,10 +1403,10 @@ Examples:
 ### Helpful strategy
 
 First:
-🕒 understand the informal time
+🕒 Understand the informal time
 
 Then:
-🔄 convert it into formal digital time.
+🔄 Convert it into formal digital time.
 
 Example:
 - halb vier
@@ -1583,10 +1583,10 @@ Example:
 <summary><b>💡 Hint</b></summary>
 
 In this exercise, you practice:
-🗣️ making plans  
-🕒 suggesting times  
-❌ saying something is not possible  
-✅ finding another time together
+🗣️ Making plans  
+🕒 Suggesting times  
+❌ Saying something is not possible  
+✅ Finding another time together
 
 This is a typical German conversation for arranging a meeting.
 
@@ -1645,11 +1645,11 @@ Example:
 
 A good conversation usually has:
 
-1️⃣ invitation  
-2️⃣ suggested time  
-3️⃣ agreement or problem  
-4️⃣ new suggestion  
-5️⃣ final agreement
+1️⃣ Invitation  
+2️⃣ Suggested time  
+3️⃣ Agreement or problem  
+4️⃣ New suggestion  
+5️⃣ Final agreement
 
 ---
 
@@ -1771,16 +1771,16 @@ Moritz möchte in die Sprechstunde von
 <summary><b>💡 Hint</b></summary>
 
 In this listening exercise, you focus on:
-📅 months  
-📝 exams and tests  
-📆 important university dates
+📅 Months  
+📝 Exams and tests  
+📆 Important university dates
 
 To solve the task:
 
 1️⃣ Listen carefully for:
-- month names
-- dates
-- exam vocabulary
+- Month names
+- Dates
+- Exam vocabulary
 
 2️⃣ Match the information with:
 - Statistik
@@ -1817,8 +1817,8 @@ German dates are usually spoken like this:
 - 28. September → achtundzwanzigster September
 
 Listen carefully to:
-✅ the number  
-✅ the month
+✅ The number  
+✅ The month
 
 ---
 
@@ -1875,11 +1875,11 @@ In this exercise, you practice:
 📅 temporal prepositions in German.
 
 These prepositions help describe:
-- time
-- dates
-- months
-- seasons
-- periods
+- Time
+- Dates
+- Months
+- Seasons
+- Periods
 
 ---
 
@@ -1900,9 +1900,9 @@ Question:
 
 ### 📆 am
 Use:
-👉 days
-👉 weekdays
-👉 parts of the day
+👉 Days
+👉 Weekdays
+👉 Parts of the day
 
 Examples:
 - am Montag
@@ -1910,14 +1910,14 @@ Examples:
 - am 08.03.
 
 BUT:
-❌ not with months
+❌ Not with months
 
 ---
 
 ### 🗓️ im
 Use:
-👉 months
-👉 seasons
+👉 Months
+👉 Seasons
 
 Examples:
 - im März
@@ -1928,7 +1928,7 @@ Examples:
 
 ### 📅 von ... bis
 Use:
-👉 periods WITHOUT dates
+👉 Periods WITHOUT dates
 
 Examples:
 - von Montag bis Freitag
@@ -1938,7 +1938,7 @@ Examples:
 
 ### 📆 vom ... bis (zum)
 Use:
-👉 periods WITH dates
+👉 Periods WITH dates
 
 Examples:
 - vom 27.02. bis zum 07.04.
@@ -2057,8 +2057,8 @@ Read the message carefully and ask:
 👉 What question does Chiara ask?
 
 Look for:
-- question words
-- important university vocabulary
+- Question words
+- Important university vocabulary
 
 Example:
 - „Wann hat er Sprechstunde?“
@@ -2073,9 +2073,9 @@ The second question asks:
 📍 Where can you find the information?
 
 Search:
-- in the previous text
-- in the office hour schedule
-- in the university information
+- In the previous text
+- In the office hour schedule
+- In the university information
 
 </details>
 
@@ -2087,14 +2087,14 @@ Search:
 In this exercise, you rewrite an email correctly.
 
 The original text has:
-❌ no spaces  
-❌ no punctuation  
-❌ no structure
+❌ No spaces  
+❌ No punctuation  
+❌ No structure
 
 Your task:
-✅ add spaces  
-✅ add punctuation  
-✅ use polite email structure
+✅ Add spaces  
+✅ Add punctuation  
+✅ Use polite email structure
 
 ---
 
@@ -2104,9 +2104,9 @@ Your task:
 - Sehr geehrte Frau Professorin …
 
 #### Main part
-- reason for writing
-- question
-- appointment request
+- Reason for writing
+- Question
+- Appointment request
 
 #### Ending
 - Vielen Dank.
@@ -2125,10 +2125,10 @@ Your task:
 ### Helpful strategy
 
 Separate the text into:
-1️⃣ greeting  
-2️⃣ information  
-3️⃣ question  
-4️⃣ closing
+1️⃣ Greeting  
+2️⃣ Information  
+3️⃣ Question  
+4️⃣ Closing
 
 ---
 
@@ -2150,10 +2150,10 @@ In this exercise, you write your own formal email to a professor.
 
 Your email should include:
 
-✅ greeting  
-✅ reason for writing  
-✅ request for an appointment  
-✅ polite closing
+✅ Greeting  
+✅ Reason for writing  
+✅ Request for an appointment  
+✅ Polite closing
 
 ---
 
@@ -2181,9 +2181,9 @@ Your email should include:
 ### Helpful strategy
 
 Keep the email:
-✅ short  
-✅ polite  
-✅ clear
+✅ Short  
+✅ Polite  
+✅ Clear
 
 A simple A1 email is enough.
 
@@ -2318,9 +2318,9 @@ In this reading exercise, you read an information text about:
 🍳 Social Cooking in Stuttgart
 
 Your task:
-✅ understand the main idea  
-✅ identify who does what  
-✅ decide if the statements are:
+✅ Understand the main idea  
+✅ Identify who does what  
+✅ Decide if the statements are:
 - richtig (true)
 - falsch (false)
 
@@ -2345,9 +2345,9 @@ Read carefully:
 👉 WHO does the action?
 
 Sometimes:
-- the guests do something
+- The guests do something
 Sometimes:
-- the host does something
+- The host does something
 
 This is important for:
 ✅ richtig / falsch questions.
@@ -2372,22 +2372,22 @@ Then ask:
 ## Important details from the text
 
 ### Guests:
-✅ bring ingredients  
-✅ wash dishes  
-✅ clean the kitchen  
-✅ invite the host  
+✅ Bring ingredients  
+✅ Wash dishes  
+✅ Clean the kitchen  
+✅ Invite the host  
 
 ### Host:
-✅ provides the place  
-❌ does NOT pay  
-❌ does NOT wash dishes
+✅ Provides the place  
+❌ Does NOT pay  
+❌ Does NOT wash dishes
 
 ---
 
 ## Helpful strategy for richtig/falsch
 
 If ONE important detail is wrong:
-❌ the whole sentence is false.
+❌ The whole sentence is false.
 
 Example:
 „Der Gastgeber lädt die Gäste ein.“
@@ -2434,17 +2434,17 @@ In this exercise, you practice:
 🔹 sentence structure
 
 Your task:
-✅ find the separable verbs  
-✅ split them correctly in the sentence  
-✅ put each part into the table
+✅ Find the separable verbs  
+✅ Split them correctly in the sentence  
+✅ Put each part into the table
 
 ---
 
 ## What are separable verbs?
 
 Some German verbs have:
-- a verb stem
-- a separable prefix
+- A verb stem
+- A separable prefix
 
 Example:
 - mitbringen
@@ -2459,8 +2459,8 @@ These verbs split in normal sentences.
 
 ### In normal statements
 
-✅ the conjugated verb goes to Position 2  
-✅ the prefix goes to the end of the sentence
+✅ The conjugated verb goes to Position 2  
+✅ The prefix goes to the end of the sentence
 
 Example:
 - Die Gäste bringen die Zutaten mit.
@@ -2566,10 +2566,10 @@ Ask yourself:
 - wollen
 
 If YES:
-✅ infinitive stays together at the end.
+✅ Infinitive stays together at the end.
 
 If NO:
-✅ split the separable verb.
+✅ Split the separable verb.
 
 </details>
 
@@ -2603,9 +2603,9 @@ In this pronunciation exercise, you practice:
 🎧 word stress in German separable verbs.
 
 Your task:
-✅ listen carefully  
-✅ identify the stressed syllable  
-✅ mark the stressed part of the verb
+✅ Listen carefully  
+✅ Identify the stressed syllable  
+✅ Mark the stressed part of the verb
 
 ---
 
@@ -2640,11 +2640,11 @@ You hear the stress strongly on the first part.
 ## Listening strategy
 
 Listen for:
-🔊 the louder syllable  
-🔊 the stronger voice emphasis
+🔊 The louder syllable  
+🔊 The stronger voice emphasis
 
 That syllable is:
-✅ stressed
+✅ Stressed
 
 ---
 
@@ -2738,14 +2738,14 @@ Stimmt nicht!
 <summary><b>💡 Hint for e)</b></summary>
 
 In this exercise, you talk about:
-🏠 household activities  
-😊 things you like doing  
-☹️ things you do not like doing
+🏠 Household activities  
+😊 Things you like doing  
+☹️ Things you do not like doing
 
 Your task:
-✅ choose activities  
-✅ write complete sentences  
-✅ use:
+✅ Choose activities  
+✅ Write complete sentences  
+✅ Use:
 - gern
 - nicht gern
 
@@ -2822,8 +2822,8 @@ In this speaking exercise, you guess:
 👉 what your partner likes or dislikes doing at home.
 
 Your task:
-✅ make guesses  
-✅ react to answers
+✅ Make guesses  
+✅ React to answers
 
 ---
 
