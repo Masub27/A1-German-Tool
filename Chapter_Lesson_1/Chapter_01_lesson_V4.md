@@ -4113,6 +4113,7 @@ Welche Vorwahl hören Sie: a, b oder c? Kreuzen Sie an.
 
 <div style="background:#f7fbff;border:2px solid #d6e8f7;border-radius:14px;padding:16px;">
 <b>1.</b><br><br>
+          
 - [[ ]] a. 080  
 - [[x]] b. 089  
 - [[ ]] c. 098   
@@ -4120,6 +4121,7 @@ Welche Vorwahl hören Sie: a, b oder c? Kreuzen Sie an.
 
 <div style="background:#f7fbff;border:2px solid #d6e8f7;border-radius:14px;padding:16px;">
 <b>2.</b><br><br>
+          
 - [[x]] a. 040  
 - [[ ]] b. 042  
 - [[ ]] c. 043  
@@ -4127,13 +4129,16 @@ Welche Vorwahl hören Sie: a, b oder c? Kreuzen Sie an.
 
 <div style="background:#f7fbff;border:2px solid #d6e8f7;border-radius:14px;padding:16px;">
 <b>3.</b><br><br>
+          
 - [[ ]] a. 0210  
 - [[X]] b. 0221  
-- [[ ]] c. 0232  
+- [[ ]] c. 0232
+   
 </div>
 
 <div style="background:#f7fbff;border:2px solid #d6e8f7;border-radius:14px;padding:16px;">
 <b>4.</b><br><br>
+          
 - [[ ]] a. 07071  
 - [[ ]] b. 07093  
 - [[x]] c. 07972  
